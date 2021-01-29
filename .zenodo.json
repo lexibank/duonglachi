@@ -1,0 +1,39 @@
+{
+    "title": "CLDF dataset derived from Duong et al.'s \"Language of the La Ch\u00ed People\" from 2020",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Duong, Thu Hang"
+        },
+        {
+            "name": "Nguyen, Thu Quynh"
+        },
+        {
+            "name": "Nguyen, Van Loi"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Kristina Pianykh",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Duong, Thu Hang and Nguyen, Thu Quynh and Nguyen, Van Loi (2021): The Language of the La Ch\u00ed People in B\u1ea3n D\u00edu Commune, X\u00edn M\u1ea7n District, H\u00e0 Giang Province, Vietnam. In: Studies in the Anthropology of Language in Mainland Southeast Asia. Ed. by N. J. Enfield, Jack Sidnell, and Charles H. P. Zuckermann. University of Hawaii Press: Honolulu. 124-138</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

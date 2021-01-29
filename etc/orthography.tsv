@@ -1,0 +1,201 @@
+Grapheme	IPA	Examples	Languages	Frequence	Codepoints
+$	NULL				
+1	¹	ni1__pɔ55ʔ	BanPhungLaChi	1	U+0031
+11	¹¹	ni11_βɔ44, măk11_toːŋ45	BanPhungLaChi, BanDiuLaChi	5	U+0031 U+0031
+11$	¹¹	nĩ33_mjã11, βɨ11	BanPhungLaChi	11	U+0031 U+0031 U+0024
+21	²¹	khɔn21_nɔ̆k35, măk21_pa35	BanDiuLaChi, NungDinLaChi, BanPhungLaChi	12	U+0032 U+0031
+21$	²¹	hen21, o21	NungDinLaChi, BanDiuLaChi	23	U+0032 U+0031 U+0024
+212	²¹²	păk212_Ɂăk45	BanDiuLaChi	1	U+0032 U+0031 U+0032
+212$	²¹²	dat212, lɯt212	BanDiuLaChi, NungDinLaChi	5	U+0032 U+0031 U+0032 U+0024
+23$	²³	măj23, cin23	BanDiuLaChi	2	U+0032 U+0033 U+0024
+31	³¹	ka31_răŋ33, phu31_ɲĭŋ33	NungDinLaChi	3	U+0033 U+0031
+31$	³¹	ŋaŋ31, cɯ31	NungDinLaChi, BanDiuLaChi	19	U+0033 U+0031 U+0024
+323	³²³	khɔ̆n323_thu323, ti323_kɔ̆n33	BanDiuLaChi, NungDinLaChi	9	U+0033 U+0032 U+0033
+323$	³²³	laj323, dăj323	NungDinLaChi, BanDiuLaChi, BanPhungLaChi	45	U+0033 U+0032 U+0033 U+0024
+33	³³	nĩ33_mjã11, ʔɗaw33_Ɂɗi21	BanPhungLaChi, BanDiuLaChi, NungDinLaChi	38	U+0033 U+0033
+33$	³³	saj33, măk35_făn33	BanPhungLaChi, BanDiuLaChi, NungDinLaChi	90	U+0033 U+0033 U+0024
+35	³⁵	măk35_făn33, chaŋ35_hɯŋ33	BanDiuLaChi, NungDinLaChi	12	U+0033 U+0035
+35$	³⁵	khăp35, khɔn21_nɔ̆k35	BanDiuLaChi, NungDinLaChi, BanPhungLaChi	14	U+0033 U+0035 U+0024
+41	⁴¹	păk41_thu33, cɯm41_pak21	BanDiuLaChi	2	U+0034 U+0031
+41$	⁴¹	mã41	BanPhungLaChi	1	U+0034 U+0031 U+0024
+43	⁴³	ʔɓɤ̆ŋ43_măj35	BanDiuLaChi	1	U+0034 U+0033
+43$	⁴³	tɯŋ33_le43, ne43	BanDiuLaChi, NungDinLaChi	3	U+0034 U+0033 U+0024
+44	⁴⁴	kɛ44_ʔa44, m̥33_qɛ44_hu11	BanPhungLaChi	7	U+0034 U+0034
+44$	⁴⁴	qɛ44, ʔa33_kh_u44	BanPhungLaChi, BanDiuLaChi, NungDinLaChi	24	U+0034 U+0034 U+0024
+45	⁴⁵	kɔk45_ho33	NungDinLaChi	1	U+0034 U+0035
+45$	⁴⁵	tăp45, ʔɗŭk45	BanDiuLaChi, NungDinLaChi	32	U+0034 U+0035 U+0024
+53	⁵³	săm53_se53, ma53_nũ11_khɔ33	BanPhungLaChi	11	U+0035 U+0033
+53$	⁵³	pɛ̃53, săm53_se53	BanPhungLaChi	12	U+0035 U+0033 U+0024
+545	⁵⁴⁵	kha545_cɔ55ʔ, na545_mɨ55	BanPhungLaChi	6	U+0035 U+0034 U+0035
+545$	⁵⁴⁵	mĩ545, ma545	BanPhungLaChi	3	U+0035 U+0034 U+0035 U+0024
+55	⁵⁵	mɛ̃55_mɛ55ʔ, kɛ55_nɔ53_kɛ55_ʔa33	BanPhungLaChi	23	U+0035 U+0035
+55$	⁵⁵	nf545_nɨ55, m̥55	BanPhungLaChi	4	U+0035 U+0035 U+0024
+55ˀ$	ˀ/⁵⁵	ljo55ˀ	BanPhungLaChi	1	U+0035 U+0035 U+02c0 U+0024
+^	NULL				
+^33$	NULL	33	BanPhungLaChi	1	U+005e U+0033 U+0033 U+0024
+^a	a	ai	Vietnamese	1	U+005e U+0061
+^b	b	bàn_chân, bɤ33_siw21	Vietnamese, BanDiuLaChi	7	U+005e U+0062
+^c	c	cɯ31, cin323	Vietnamese, NungDinLaChi, BanDiuLaChi, BanPhungLaChi	16	U+005e U+0063
+^ch	cʰ	cháy, chaŋ35_hɯŋ33	Vietnamese, BanDiuLaChi	8	U+005e U+0063 U+0068
+^d	d	dăj323, dat212	Vietnamese, NungDinLaChi, BanDiuLaChi	6	U+005e U+0064
+^f	f	făj33	NungDinLaChi, BanDiuLaChi	2	U+005e U+0066
+^g	g	giết_, gan	Vietnamese	2	U+005e U+0067
+^h	h	hen21, huj21	NungDinLaChi, BanDiuLaChi, Vietnamese	14	U+005e U+0068
+^k	k	ka33_tu33, ka44_tu33_zu55ʔ	BanPhungLaChi, NungDinLaChi, BanDiuLaChi, Vietnamese	24	U+005e U+006b
+^kh	kʰ	khaw323, kha33	NungDinLaChi, BanDiuLaChi, Vietnamese, BanPhungLaChi	23	U+005e U+006b U+0068
+^l	l	lɯt212, laj323	BanDiuLaChi, BanPhungLaChi, NungDinLaChi, Vietnamese	29	U+005e U+006c
+^m	m	măk35_făn33, măn33	Vietnamese, BanDiuLaChi, NungDinLaChi, BanPhungLaChi	41	U+005e U+006d
+^m̥	m̥	m̥33_la33, m̥33_qɛ44_hu11	BanPhungLaChi	8	U+005e U+006d U+0325
+^n	n	nĩ33_mjã11, năŋ31	BanPhungLaChi, Vietnamese, NungDinLaChi, BanDiuLaChi	44	U+005e U+006e
+^nh	nh/n̊	nhiều, nhìn	Vietnamese	3	U+005e U+006e U+0068
+^o	o	o21	NungDinLaChi, BanDiuLaChi	2	U+005e U+006f
+^p	p	păj323, pak45	BanPhungLaChi, NungDinLaChi, BanDiuLaChi	18	U+005e U+0070
+^ph	pʰ	pha33_kha45, phɯ21_caj33	NungDinLaChi, BanDiuLaChi, BanPhungLaChi	9	U+005e U+0070 U+0068
+^q	q	qo33, qa44	BanPhungLaChi	4	U+005e U+0071
+^qh	qʰ	qhi44	BanPhungLaChi	1	U+005e U+0071 U+0068
+^r	r	răɯ33, ru33	NungDinLaChi, Vietnamese	5	U+005e U+0072
+^s	s	saj33, sao	NungDinLaChi, BanDiuLaChi, BanPhungLaChi, Vietnamese	13	U+005e U+0073
+^t	t	tăp45, tăw31	Vietnamese, BanDiuLaChi, BanPhungLaChi, NungDinLaChi	38	U+005e U+0074
+^th	tʰ	thaj323, thaŋ323	NungDinLaChi, BanDiuLaChi, BanPhungLaChi, Vietnamese	14	U+005e U+0074 U+0068
+^u	u	uống	Vietnamese	1	U+005e U+0075
+^v	v	vàng, vỏ_	Vietnamese	2	U+005e U+0076
+^x	x	xương, xanh	Vietnamese	2	U+005e U+0078
+^z	z	ziw33, zăj33	NungDinLaChi, BanDiuLaChi	5	U+005e U+007a
+^ă	ă	ăn33_ʔɗăŋ323, ăn	BanDiuLaChi, Vietnamese	5	U+005e U+0103
+^đ	đ/ð	đầu_gối, đất	Vietnamese	15	U+005e U+0111
+^ŋ	ŋ	ŋaŋ31	NungDinLaChi, BanDiuLaChi	2	U+005e U+014b
+^Ɂ	ʔ	Ɂɓo31, Ɂɗew33	NungDinLaChi, BanDiuLaChi	5	U+005e U+0241
+^ɕ	ɕ	ɕo44	BanPhungLaChi	1	U+005e U+0255
+^ɬ	ɬ	ɬoŋ33	NungDinLaChi	1	U+005e U+026c
+^ɯ̆	ɯ̆	ɯ̆m45	NungDinLaChi	1	U+005e U+026f U+0306
+^ɲ	ɲ	ɲã33, ɲa55ʔ	BanPhungLaChi	3	U+005e U+0272
+^ɸ	ɸ	ɸɛ55ʔ, ɸu44	BanPhungLaChi	3	U+005e U+0278
+^ʑ	ʑ	ʑɔ55ʔ	BanPhungLaChi	1	U+005e U+0291
+^ʔ	ʔ	ʔɗăm33, ʔɗŭk45	BanPhungLaChi, NungDinLaChi, BanDiuLaChi	25	U+005e U+0294
+^β	β	βɨ11, βa33	BanPhungLaChi	5	U+005e U+03b2
+^θ	θ	θõ35	BanDiuLaChi	1	U+005e U+03b8
+_	+	ka44_tu33_zu55ʔ, măk35_făn33	BanPhungLaChi, BanDiuLaChi, NungDinLaChi, Vietnamese	100	U+005f
+_$	NULL	giết_, đường_	Vietnamese	3	U+005f U+0024
+__	+	ʔa33__tɛ33, ca__m̥	BanPhungLaChi	5	U+005f U+005f
+a	a	saj33, mak21_pa323	BanPhungLaChi, BanDiuLaChi, NungDinLaChi, Vietnamese	98	U+0061
+a$	a	kia, da	Vietnamese	5	U+0061 U+0024
+b	b	đàn_bà, ʔa33__bɛ33	Vietnamese, BanPhungLaChi	2	U+0062
+c	c	kha545_cɔ55ʔ, tất_cả	NungDinLaChi, BanDiuLaChi, Vietnamese, BanPhungLaChi	7	U+0063
+c$	c	nước, ngực	Vietnamese	3	U+0063 U+0024
+ch	cʰ	bàn_chân	Vietnamese	1	U+0063 U+0068
+e	e	tɯŋ33_le43, ʔɗeŋ323	BanPhungLaChi, BanDiuLaChi, NungDinLaChi, Vietnamese	22	U+0065
+e$	e	nghe	Vietnamese	1	U+0065 U+0024
+f	f	măk35_făn33, nf545_nɨ55	NungDinLaChi, BanDiuLaChi, BanPhungLaChi	4	U+0066
+g	g	đầu_gối, người	Vietnamese	7	U+0067
+g$	g	trứng, mặt_trăng	Vietnamese	16	U+0067 U+0024
+gh	gh	nghe	Vietnamese	1	U+0067 U+0068
+h	h	m̥33_qɛ44_hu11, ăn33_haj323	BanDiuLaChi, NungDinLaChi, BanPhungLaChi	4	U+0068
+i	i	ci545_ʔi33, ʔɗaw33_Ɂɗi21	BanPhungLaChi, BanDiuLaChi, Vietnamese, NungDinLaChi	47	U+0069
+i$	i	đầu_gối, người	Vietnamese	18	U+0069 U+0024
+j	j	saj33, laj323	NungDinLaChi, BanPhungLaChi, BanDiuLaChi	48	U+006a
+k	k	măk35_făn33, păk212_Ɂăk45	BanDiuLaChi, NungDinLaChi, BanPhungLaChi	28	U+006b
+kh	kʰ	thu33_khăw21, kha35_khɤ̆w21	BanPhungLaChi, BanDiuLaChi, NungDinLaChi	7	U+006b U+0068
+l	l	tɯŋ33_le43, m̥33_la33	BanPhungLaChi, BanDiuLaChi, NungDinLaChi	14	U+006c
+m	m	năm35_mɔ21, nĩ33_mjã11	BanDiuLaChi, BanPhungLaChi, NungDinLaChi	33	U+006d
+m$	m	tim, mồm	Vietnamese	5	U+006d U+0024
+m̥	m̥	la33_m̥55ʔ, lɛ33_m̥55	BanPhungLaChi	2	U+006d U+0325
+m̥$	m̥	ca__m̥	BanPhungLaChi	1	U+006d U+0325 U+0024
+n	n	cĭn323_cĭn323, hen21	BanDiuLaChi, Vietnamese, NungDinLaChi, BanPhungLaChi	70	U+006e
+n$	n	nhìn, đen	Vietnamese	10	U+006e U+0024
+nh$	nh/n̥	xanh, lạnh	Vietnamese	2	U+006e U+0068 U+0024
+o	o	non33, Ɂɓo31	NungDinLaChi, BanPhungLaChi, BanDiuLaChi	20	U+006f
+o$	o	sao, to	Vietnamese	5	U+006f U+0024
+oː	oː	măk11_toːŋ45	BanDiuLaChi	1	U+006f U+02d0
+p	p	khăp35, lɛp45	BanDiuLaChi, NungDinLaChi, BanPhungLaChi	14	U+0070
+ph	pʰ	ta21_phũ53, po33_pha323	NungDinLaChi, BanPhungLaChi	2	U+0070 U+0068
+q	q	m̥33_qɛ44_hu11	BanPhungLaChi	1	U+0071
+r	r	mặt_trăng, trứng	Vietnamese, NungDinLaChi	7	U+0072
+s	s	săm53_se53, ăn33_saj31	BanDiuLaChi, BanPhungLaChi	3	U+0073
+t	t	mặt_trăng, lɯt212	BanPhungLaChi, Vietnamese, BanDiuLaChi, NungDinLaChi	21	U+0074
+t$	t	đất, cát	Vietnamese	9	U+0074 U+0024
+th	tʰ	kan55_thjɔ11_thju11, khɔ̆n323_thu323	BanPhungLaChi, BanDiuLaChi, NungDinLaChi	11	U+0074 U+0068
+u	u	ka44_tu33_zu55ʔ, huj21	BanPhungLaChi, NungDinLaChi, BanDiuLaChi, Vietnamese	35	U+0075
+u$	u	nhiều, máu	Vietnamese	3	U+0075 U+0024
+v	v	thaŋ323_vɑ̆n33, thaŋ323_văn33	NungDinLaChi, BanDiuLaChi	2	U+0076
+w	w	khaw323, lɤ̆w33	BanDiuLaChi, NungDinLaChi	12	U+0077
+ay	ay/ai̯
+ày	ày/ai̯
+áu	áu/au̯
+z	z	ka44_tu33_zu55ʔ	BanPhungLaChi	1	U+007a
+à	à/a	mày, này	Vietnamese	7	U+00e0
+à$	à/a	đàn_bà	Vietnamese	1	U+00e0 U+0024
+á	á	cháy, máu	Vietnamese	3	U+00e1
+â	â	bàn_chân, cây	Vietnamese	3	U+00e2
+ã	ã	nĩ33_mjã11, to33_mjã33	BanPhungLaChi	8	U+00e3
+ê	ê/e	tên, đêm	Vietnamese	2	U+00ea
+ì	ì/i	nhìn	Vietnamese	1	U+00ec
+ò	ò/o	tròn	Vietnamese	1	U+00f2
+ó	ó/o	khói, nói	Vietnamese	5	U+00f3
+ói	ói/oi̯
+ô	ô/o	đuôi, lông	Vietnamese	5	U+00f4
+ng	ŋ
+õ	õ	θõ35	BanDiuLaChi	1	U+00f5
+ú	ú/u	chúng_ta, núi	Vietnamese	2	U+00fa
+úi	úi/ui̯
+ă	ă	măk35_făn33, khăp35	NungDinLaChi, BanDiuLaChi, BanPhungLaChi, Vietnamese	74	U+0103
+ăw	ăw/ău̯	tăw31, khăw323	NungDinLaChi, BanDiuLaChi	8	U+0103 U+0077
+ĩ	ĩ	nĩ33_mjã11, ka55_nĩ33	BanPhungLaChi	4	U+0129
+ĭ	ĭ	cĭn323_cĭn323, cĭn323	NungDinLaChi, BanDiuLaChi	4	U+012d
+ŋ	ŋ	ŋaŋ31, năŋ31	BanDiuLaChi, NungDinLaChi, BanPhungLaChi	38	U+014b
+ũ	ũ	ma53_nũ11_khɔ33, ta21_phũ53	BanPhungLaChi, Vietnamese	5	U+0169
+ŭ	ŭ	ʔɗŭk45, mŭŋ33	NungDinLaChi, BanDiuLaChi	4	U+016d
+ơ	ơ/o	xương, bơi	Vietnamese	2	U+01a1
+ư	ư/u	xương, người	Vietnamese	6	U+01b0
+Ɂ	ʔ	ʔɗaw33_Ɂɗi21, păk212_Ɂăk45	BanDiuLaChi, NungDinLaChi	3	U+0241
+ɑ	ɑ	ʔɑ44_li33, pɑ323	NungDinLaChi, BanPhungLaChi	2	U+0251
+ɑ̆	ɑ̆	thaŋ323_vɑ̆n33, năŋ35_mɑ̆j44	BanDiuLaChi	2	U+0251 U+0306
+ɓ	ɓ	Ɂɓo31, ʔɓăn323	NungDinLaChi, BanDiuLaChi	6	U+0253
+ɔ	ɔ	năm35_mɔ21, pu53_thjɔ53	BanPhungLaChi, NungDinLaChi, BanDiuLaChi	22	U+0254
+ɔ̆	ɔ̆	khɔ̆n323_thu323, khɔn21_nɔ̆k35	BanDiuLaChi, NungDinLaChi	9	U+0254 U+0306
+ɕ	ɕ	kũŋ53_ɕo33, ka33_ɕi44	BanPhungLaChi	2	U+0255
+ɗ	ɗ	ʔɗaw33_Ɂɗi21, ʔɗeŋ323	NungDinLaChi, BanDiuLaChi	14	U+0257
+ɛ	ɛ	pɛ33_pjɛ53, lɛp45	BanPhungLaChi, BanDiuLaChi, NungDinLaChi	20	U+025b
+ɛ̃	ɛ̃	mɛ̃55_mɛ55ʔ, pɛ̃53	BanPhungLaChi	2	U+025b U+0303
+ɤ	ɤ	lɤi44, bɤ33_siw21	BanPhungLaChi, BanDiuLaChi	3	U+0264
+ɤ̆	ɤ̆	lɤ̆w33, kha35_khɤ̆w21	NungDinLaChi, BanDiuLaChi	7	U+0264 U+0306
+ɤ̆w	ɤ̆w/ɤ̆u̯
+ɤ̆ɯ	ɤ̆ɯ/ɤ̆ɯ̯
+ɨ	ɨ	nɨ55ʔ, na545_mɨ55	BanPhungLaChi	5	U+0268
+ɯ	ɯ	lɯt212, mak21_thɯ33_cɤ̆ɯ33	BanDiuLaChi, NungDinLaChi	31	U+026f
+ɲ	ɲ	phu31_ɲĭŋ33, thiɲ545_le11	NungDinLaChi, BanPhungLaChi	2	U+0272
+ʔ	ʔ	kɛ44_ʔa44, ăn33_ʔɗăŋ323	BanPhungLaChi, BanDiuLaChi	6	U+0294
+β	β	βe53_βɛ55ʔ, ni11_βɔ44	BanPhungLaChi	2	U+03b2
+ạ	ạ/a	lạnh, hạt	Vietnamese	2	U+1ea1
+nh	nh/n
+ả$	ả/a	tất_cả	Vietnamese	1	U+1ea3 U+0024
+ấ	ấ/a	tất_cả, chấy	Vietnamese	3	U+1ea5
+ầ	ầ/a	đầy, đầu_gối	Vietnamese	3	U+1ea7
+ắ	ắ/a	trắng, mắt	Vietnamese	3	U+1eaf
+ằ	ằ/a	nằm	Vietnamese	1	U+1eb1
+ặ	ặ/a	mặt_trăng, mặt_trời	Vietnamese	2	U+1eb7
+ế	ế/e	giết_, biết	Vietnamese	4	U+1ebf
+ề	ề/e	nhiều	Vietnamese	1	U+1ec1
+ễ$	ễ/e	rễ	Vietnamese	1	U+1ec5 U+0024
+ệ	ệ/e	miệng	Vietnamese	1	U+1ec7
+ị	ị/i	thịt	Vietnamese	1	U+1ecb
+ỏ	ỏ/o	vỏ_	Vietnamese	1	U+1ecf
+ố	ó/o	tốt, đầu_gối	Vietnamese	3	U+1ed1
+ồ	ồ/o	ngồi, mồm	Vietnamese	2	U+1ed3
+ổ$	ổ/o	cổ	Vietnamese	1	U+1ed5 U+0024
+ộ	ộ/o	một	Vietnamese	1	U+1ed9
+ớ	ớ/o	lớn, nước	Vietnamese	3	U+1edb
+ờ	ờ/o	đường_, người	Vietnamese	3	U+1edd
+ỡ	ỡ/o	lưỡi	Vietnamese	1	U+1ee1
+ỡ$	ỡ/o	mỡ	Vietnamese	1	U+1ee1 U+0024
+ụ	ụ/u	bụng	Vietnamese	1	U+1ee5
+ủ$	ủ/u	ngủ	Vietnamese	1	U+1ee7 U+0024
+ứ	ứ/u	trứng, đứng	Vietnamese	2	U+1ee9
+ừ	ừ/u	sừng	Vietnamese	1	U+1eeb
+ử	ử/u	lửa	Vietnamese	1	U+1eed
+ự	ự/u	ngực	Vietnamese	1	U+1ef1
+$	NULL	năm545_lja55	BanPhungLaChi	1	U+f03f U+0024
+^bé	b é/e
+ây	ây/ai̯
+ấy	ấy/ai̯
+ầy	ầy/ai̯
+áy	áy/ai̯
