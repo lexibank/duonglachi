@@ -2,412 +2,412 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 BanPhungLaChi-1_sun-1,,BanPhungLaChi,1_sun,βa33 ,βa33,β a ³³,,Duong2020,,,^β a 33$,default
 BanDiuLaChi-1_sun-1,,BanDiuLaChi,1_sun,thaŋ323 vɑ̆n33 ,thaŋ323_vɑ̆n33,tʰ a ŋ ³²³ + v ɑ̆ n ³³,,Duong2020,,,^th a ŋ 323 _ v ɑ̆ n 33$,default
 NungDinLaChi-1_sun-1,,NungDinLaChi,1_sun,thaŋ323 văn33 ,thaŋ323_văn33,tʰ a ŋ ³²³ + v ă n ³³,,Duong2020,,,^th a ŋ 323 _ v ă n 33$,default
-Vietnamese-1_sun-1,,Vietnamese,1_sun,mặt trời,mặt_trời,m ặ/a t + t r ờ/o i,,Duong2020,,,^m ặ t _ t r ờ i$,default
+Vietnamese-1_sun-1,,Vietnamese,1_sun,mặt trời,mặt_trời,m a k ²¹² + ʈ əːi̯ ²¹,,Duong2020,,,^mặt_trời $,default
 BanPhungLaChi-2_moon-1,,BanPhungLaChi,2_moon,m̥33 la33,m̥33_la33,m̥ ³³ + l a ³³,,Duong2020,,,^m̥ 33 _ l a 33$,default
-BanDiuLaChi-2_moon-1,,BanDiuLaChi,2_moon,ăn33 haj323,ăn33_haj323,ă n ³³ + h a j ³²³,,Duong2020,,,^ă n 33 _ h a j 323$,default
+BanDiuLaChi-2_moon-1,,BanDiuLaChi,2_moon,ăn33 haj323,ăn33_haj323,ʔ a ŋ ³³ ³³ + h a j ³²³,,Duong2020,,,^ăn 33 _ h a j 323$,default
 NungDinLaChi-2_moon-1,,NungDinLaChi,2_moon,haj323,haj323,h a j ³²³,,Duong2020,,,^h a j 323$,default
-Vietnamese-2_moon-1,,Vietnamese,2_moon,mặt trăng,mặt_trăng,m ặ/a t + t r ă ŋ,,Duong2020,,,^m ặ t _ t r ă ng $,default
+Vietnamese-2_moon-1,,Vietnamese,2_moon,mặt trăng,mặt_trăng,m a k ²¹² + ʈ a ŋ ³³,,Duong2020,,,^mặt_trăng $,default
 BanPhungLaChi-3_star-1,,BanPhungLaChi,3_star,m̥33 thi44 li33,m̥33_thi44_li33,m̥ ³³ + tʰ i ⁴⁴ + l i ³³,,Duong2020,,,^m̥ 33 _ th i 44 _ l i 33$,default
 BanDiuLaChi-3_star-1,,BanDiuLaChi,3_star,ʔɗaw33 Ɂɗi21,ʔɗaw33_Ɂɗi21,ʔ ɗ a w ³³ + ʔ ɗ i ²¹,,Duong2020,,,^ʔ ɗ a w 33 _ Ɂ ɗ i 21$,default
 NungDinLaChi-3_star-1,,NungDinLaChi,3_star,ʔɗaw33 Ɂɗi21,ʔɗaw33_Ɂɗi21,ʔ ɗ a w ³³ + ʔ ɗ i ²¹,,Duong2020,,,^ʔ ɗ a w 33 _ Ɂ ɗ i 21$,default
-Vietnamese-3_star-1,,Vietnamese,3_star,sao,sao,s a o,,Duong2020,,,^s a o$,default
+Vietnamese-3_star-1,,Vietnamese,3_star,sao,sao,s aːu̯ ³³,,Duong2020,,,^sao $,default
 BanPhungLaChi-4_earth-1,,BanPhungLaChi,4_earth,ʔu33,ʔu33,ʔ u ³³,,Duong2020,,,^ʔ u 33$,default
 BanDiuLaChi-4_earth-1,,BanDiuLaChi,4_earth,nam33,nam33,n a m ³³,,Duong2020,,,^n a m 33$,default
 NungDinLaChi-4_earth-1,,NungDinLaChi,4_earth,nam31,nam31,n a m ³¹,,Duong2020,,,^n a m 31$,default
-Vietnamese-4_earth-1,,Vietnamese,4_earth,đất,đất,đ/ð ấ/a t,,Duong2020,,,^đ ấ t$,default
+Vietnamese-4_earth-1,,Vietnamese,4_earth,đất,đất,ɗ ə k ⁴⁵,,Duong2020,,,^đất $,default
 BanPhungLaChi-5_cloud-1,,BanPhungLaChi,5_cloud,m̥33 qɛ44 hu11,m̥33_qɛ44_hu11,m̥ ³³ + q ɛ ⁴⁴ + h u ¹¹,,Duong2020,,,^m̥ 33 _ q ɛ 44 _ h u 11$,default
 BanDiuLaChi-5_cloud-1,,BanDiuLaChi,5_cloud,năm35 mɔ21,năm35_mɔ21,n ă m ³⁵ + m ɔ ²¹,,Duong2020,,,^n ă m 35 _ m ɔ 21$,default
 NungDinLaChi-5_cloud-1,,NungDinLaChi,5_cloud,pha45,pha45,pʰ a ⁴⁵,,Duong2020,,,^ph a 45$,default
-Vietnamese-5_cloud-1,,Vietnamese,5_cloud,mây,mây,m ây/ai̯,,Duong2020,,,^m ây $,default
+Vietnamese-5_cloud-1,,Vietnamese,5_cloud,mây,mây,m əi̯ ³³,,Duong2020,,,^mây $,default
 BanPhungLaChi-6_rain-1,,BanPhungLaChi,6_rain,ɲã33,ɲã33,ɲ ã ³³,,Duong2020,,,^ɲ ã 33$,default
 BanDiuLaChi-6_rain-1,,BanDiuLaChi,6_rain,phăn35 lɔ̆ŋ33,phăn35_lɔ̆ŋ33,pʰ ă n ³⁵ + l ɔ̆ ŋ ³³,,Duong2020,,,^ph ă n 35 _ l ɔ̆ ŋ 33$,default
 NungDinLaChi-6_rain-1,,NungDinLaChi,6_rain,phăn33 ,phăn33,pʰ ă n ³³,,Duong2020,,,^ph ă n 33$,default
-Vietnamese-6_rain-1,,Vietnamese,6_rain,mưa,mưa,m ư/u a,,Duong2020,,,^m ư a$,default
+Vietnamese-6_rain-1,,Vietnamese,6_rain,mưa,mưa,m ɨə ³³,,Duong2020,,,^mưa $,default
 BanPhungLaChi-7_water-1,,BanPhungLaChi,7_water,ʔi33,ʔi33,ʔ i ³³,,Duong2020,,,^ʔ i 33$,default
 BanDiuLaChi-7_water-1,,BanDiuLaChi,7_water,năm45,năm45,n ă m ⁴⁵,,Duong2020,,,^n ă m 45$,default
 NungDinLaChi-7_water-1,,NungDinLaChi,7_water,năm45,năm45,n ă m ⁴⁵,,Duong2020,,,^n ă m 45$,default
-Vietnamese-7_water-1,,Vietnamese,7_water,nước ,nước,n ư/u ớ/o c,,Duong2020,,,^n ư ớ c$,default
+Vietnamese-7_water-1,,Vietnamese,7_water,nước ,nước,n ɨː k ⁴⁵,,Duong2020,,,^nước $,default
 BanPhungLaChi-8_mountain-1,,BanPhungLaChi,8_mountain,kũŋ53 ɕo33,kũŋ53_ɕo33,k ũ ŋ ⁵³ + ɕ o ³³,,Duong2020,,,^k ũ ŋ 53 _ ɕ o 33$,default
-BanDiuLaChi-8_mountain-1,,BanDiuLaChi,8_mountain,ăn35 po35,ăn35_po35,ă n ³⁵ + p o ³⁵,,Duong2020,,,^ă n 35 _ p o 35$,default
+BanDiuLaChi-8_mountain-1,,BanDiuLaChi,8_mountain,ăn35 po35,ăn35_po35,ʔ a ŋ ³³ ³⁵ + p o ³⁵,,Duong2020,,,^ăn 35 _ p o 35$,default
 NungDinLaChi-8_mountain-1,,NungDinLaChi,8_mountain,po33 pha323,po33_pha323,p o ³³ + pʰ a ³²³,,Duong2020,,,^p o 33 _ ph a 323$,default
-Vietnamese-8_mountain-1,,Vietnamese,8_mountain,núi,núi,n úi/ui̯,,Duong2020,,,^n úi $,default
+Vietnamese-8_mountain-1,,Vietnamese,8_mountain,núi,núi,n ui̯ ⁴⁵,,Duong2020,,,^núi $,default
 BanPhungLaChi-9_rock-1,,BanPhungLaChi,9_rock,ni11/33,ni11,n i ¹¹,,Duong2020,,,^n i 11$,default
 BanDiuLaChi-9_rock-1,,BanDiuLaChi,9_rock,măk21 pa35,măk21_pa35,m ă k ²¹ + p a ³⁵,,Duong2020,,,^m ă k 21 _ p a 35$,default
 NungDinLaChi-9_rock-1,,NungDinLaChi,9_rock,mak21 pa323,mak21_pa323,m a k ²¹ + p a ³²³,,Duong2020,,,^m a k 21 _ p a 323$,default
-Vietnamese-9_rock-1,,Vietnamese,9_rock,đá,đá,đ/ð á,,Duong2020,,,^đ á $,default
+Vietnamese-9_rock-1,,Vietnamese,9_rock,đá,đá,ɗ aː ⁴⁵,,Duong2020,,,^đá $,default
 BanPhungLaChi-10_sand-1,,BanPhungLaChi,10_sand,ɲã44,ɲã44,ɲ ã ⁴⁴,,Duong2020,,,^ɲ ã 44$,default
 BanDiuLaChi-10_sand-1,,BanDiuLaChi,10_sand,saj33,saj33,s a j ³³,,Duong2020,,,^s a j 33$,default
 NungDinLaChi-10_sand-1,,NungDinLaChi,10_sand,saj33,saj33,s a j ³³,,Duong2020,,,^s a j 33$,default
-Vietnamese-10_sand-1,,Vietnamese,10_sand,cát,cát,c á t,,Duong2020,,,^c á t$,default
+Vietnamese-10_sand-1,,Vietnamese,10_sand,cát,cát,k aː k ⁴⁵,,Duong2020,,,^cát $,default
 BanPhungLaChi-11_roadway-1,,BanPhungLaChi,11_roadway,qhi44/khi44,qhi44,qʰ i ⁴⁴,,Duong2020,,,^qh i 44$,default
 BanPhungLaChi-11_roadway-2,,BanPhungLaChi,11_roadway,qhi44/khi44,khi44,kʰ i ⁴⁴,,Duong2020,,,^kh i 44$,default
 BanDiuLaChi-11_roadway-1,,BanDiuLaChi,11_roadway,kha35 lo33,kha35_lo33,kʰ a ³⁵ + l o ³³,,Duong2020,,,^kh a 35 _ l o 33$,default
 NungDinLaChi-11_roadway-1,,NungDinLaChi,11_roadway,lo31,lo31,l o ³¹,,Duong2020,,,^l o 31$,default
-Vietnamese-11_roadway-1,,Vietnamese,11_roadway,đường (đi),đường_,đ/ð ư/u ờ/o ŋ,,Duong2020,,,^đ ư ờ ng _$,default
+Vietnamese-11_roadway-1,,Vietnamese,11_roadway,đường (đi),đường_,ɗ ɨː ŋ ²¹,,Duong2020,,,^đường _$,default
 BanPhungLaChi-12_fire-1,,BanPhungLaChi,12_fire,pe33,pe33,p e ³³,,Duong2020,,,^p e 33$,default
 BanDiuLaChi-12_fire-1,,BanDiuLaChi,12_fire,făj33,făj33,f ă j ³³,,Duong2020,,,^f ă j 33$,default
 NungDinLaChi-12_fire-1,,NungDinLaChi,12_fire,făj33,făj33,f ă j ³³,,Duong2020,,,^f ă j 33$,default
-Vietnamese-12_fire-1,,Vietnamese,12_fire,lửa,lửa,l ử/u a,,Duong2020,,,^l ử a$,default
+Vietnamese-12_fire-1,,Vietnamese,12_fire,lửa,lửa,l ɨə ²¹⁴,,Duong2020,,,^lửa $,default
 BanPhungLaChi-13_smoke-1,,BanPhungLaChi,13_smoke,kăm33 pe33,kăm33_pe33,k ă m ³³ + p e ³³,,Duong2020,,,^k ă m 33 _ p e 33$,default
 BanDiuLaChi-13_smoke-1,,BanDiuLaChi,13_smoke,zăj33,zăj33,z ă j ³³,,Duong2020,,,^z ă j 33$,default
 NungDinLaChi-13_smoke-1,,NungDinLaChi,13_smoke,zaj33 făj31,zaj33_făj31,z a j ³³ + f ă j ³¹,,Duong2020,,,^z a j 33 _ f ă j 31$,default
-Vietnamese-13_smoke-1,,Vietnamese,13_smoke,khói,khói,kʰ ói/oi̯,,Duong2020,,,^kh ói $,default
+Vietnamese-13_smoke-1,,Vietnamese,13_smoke,khói,khói,x ɔːi̯ ⁴⁵,,Duong2020,,,^khói $,default
 BanPhungLaChi-14_ash-1,,BanPhungLaChi,14_ash,te33,te33,t e ³³,,Duong2020,,,^t e 33$,default
 BanDiuLaChi-14_ash-1,,BanDiuLaChi,14_ash,tăw31,tăw31,t ăw/ău̯ ³¹,,Duong2020,,,^t ăw 31$,default
 NungDinLaChi-14_ash-1,,NungDinLaChi,14_ash,tăw31,tăw31,t ăw/ău̯ ³¹,,Duong2020,,,^t ăw 31$,default
-Vietnamese-14_ash-1,,Vietnamese,14_ash,tro,tro,t r o,,Duong2020,,,^t r o$,default
+Vietnamese-14_ash-1,,Vietnamese,14_ash,tro,tro,ʈ ɔː ³³,,Duong2020,,,^tro $,default
 BanPhungLaChi-15_night-1,,BanPhungLaChi,15_night,ni11 βɔ44,ni11_βɔ44,n i ¹¹ + β ɔ ⁴⁴,,Duong2020,,,^n i 11 _ β ɔ 44$,default
 BanDiuLaChi-15_night-1,,BanDiuLaChi,15_night,chaŋ35 hɯŋ33,chaŋ35_hɯŋ33,cʰ a ŋ ³⁵ + h ɯ ŋ ³³,,Duong2020,,,^ch a ŋ 35 _ h ɯ ŋ 33$,default
 NungDinLaChi-15_night-1,,NungDinLaChi,15_night,hăm31,hăm31,h ă m ³¹,,Duong2020,,,^h ă m 31$,default
-Vietnamese-15_night-1,,Vietnamese,15_night,đêm,đêm,đ/ð ê/e m,,Duong2020,,,^đ ê m$,default
+Vietnamese-15_night-1,,Vietnamese,15_night,đêm,đêm,ɗ eː m ³³,,Duong2020,,,^đêm $,default
 BanPhungLaChi-16_tree-1,,BanPhungLaChi,16_tree,mjã11  te33,mjã11__te33,m j ã ¹¹ + t e ³³,,Duong2020,,,^m j ã 11 __ t e 33$,default
 BanDiuLaChi-16_tree-1,,BanDiuLaChi,16_tree,măj23,măj23,m ă j ²³,,Duong2020,,,^m ă j 23$,default
 NungDinLaChi-16_tree-1,,NungDinLaChi,16_tree,măj45,măj45,m ă j ⁴⁵,,Duong2020,,,^m ă j 45$,default
-Vietnamese-16_tree-1,,Vietnamese,16_tree,cây,cây,c ây/ai̯,,Duong2020,,,^c ây $,default
+Vietnamese-16_tree-1,,Vietnamese,16_tree,cây,cây,k əi̯ ³³,,Duong2020,,,^cây $,default
 BanPhungLaChi-17_seed-1,,BanPhungLaChi,17_seed,pjɔ44,pjɔ44,p j ɔ ⁴⁴,,Duong2020,,,^p j ɔ 44$,default
 BanDiuLaChi-17_seed-1,,BanDiuLaChi,17_seed,huj21,huj21,h u j ²¹,,Duong2020,,,^h u j 21$,default
 NungDinLaChi-17_seed-1,,NungDinLaChi,17_seed,huj21,huj21,h u j ²¹,,Duong2020,,,^h u j 21$,default
-Vietnamese-17_seed-1,,Vietnamese,17_seed,hạt,hạt,h ạ/a t,,Duong2020,,,^h ạ t$,default
+Vietnamese-17_seed-1,,Vietnamese,17_seed,hạt,hạt,h aː k ²¹²,,Duong2020,,,^hạt $,default
 BanPhungLaChi-18_leaf-1,,BanPhungLaChi,18_leaf,lɤi44/ lɨ44,lɤi44,l ɤ i ⁴⁴,,Duong2020,,,^l ɤ i 44$,default
 BanPhungLaChi-18_leaf-2,,BanPhungLaChi,18_leaf,lɤi44/ lɨ44,lɨ44,l ɨ ⁴⁴,,Duong2020,,,^l ɨ 44$,default
 BanDiuLaChi-18_leaf-1,,BanDiuLaChi,18_leaf,ʔɓɤ̆ŋ43 măj35,ʔɓɤ̆ŋ43_măj35,ʔ ɓ ɤ̆ ŋ ⁴³ + m ă j ³⁵,,Duong2020,,,^ʔ ɓ ɤ̆ ŋ 43 _ m ă j 35$,default
 NungDinLaChi-18_leaf-1,,NungDinLaChi,18_leaf,ʔɓɤ̆ɯ323,ʔɓɤ̆ɯ323,ʔ ɓ ɤ̆ɯ/ɤ̆ɯ̯ ³²³,,Duong2020,,,^ʔ ɓ ɤ̆ɯ 323$,default
-Vietnamese-18_leaf-1,,Vietnamese,18_leaf,lá,lá,l á,,Duong2020,,,^l á $,default
+Vietnamese-18_leaf-1,,Vietnamese,18_leaf,lá,lá,l aː ⁴⁵,,Duong2020,,,^lá $,default
 BanPhungLaChi-19_root-1,,BanPhungLaChi,19_root,ka33 ɕi44,ka33_ɕi44,k a ³³ + ɕ i ⁴⁴,,Duong2020,,,^k a 33 _ ɕ i 44$,default
 BanDiuLaChi-19_root-1,,BanDiuLaChi,19_root,lak35,lak35,l a k ³⁵,,Duong2020,,,^l a k 35$,default
 NungDinLaChi-19_root-1,,NungDinLaChi,19_root,lak21,lak21,l a k ²¹,,Duong2020,,,^l a k 21$,default
-Vietnamese-19_root-1,,Vietnamese,19_root,rễ,rễ,r ễ/e,,Duong2020,,,^r ễ$,default
+Vietnamese-19_root-1,,Vietnamese,19_root,rễ,rễ,r eː ²¹⁴,,Duong2020,,,^rễ $,default
 BanPhungLaChi-20_bark-1,,BanPhungLaChi,20_bark,ka33 tu44,ka33_tu44,k a ³³ + t u ⁴⁴,,Duong2020,,,^k a 33 _ t u 44$,default
 BanDiuLaChi-20_bark-1,,BanDiuLaChi,20_bark,năŋ35 mɑ̆j44,năŋ35_mɑ̆j44,n ă ŋ ³⁵ + m ɑ̆ j ⁴⁴,,Duong2020,,,^n ă ŋ 35 _ m ɑ̆ j 44$,default
 NungDinLaChi-20_bark-1,,NungDinLaChi,20_bark,năŋ35 măj44,năŋ35_măj44,n ă ŋ ³⁵ + m ă j ⁴⁴,,Duong2020,,,^n ă ŋ 35 _ m ă j 44$,default
-Vietnamese-20_bark-1,,Vietnamese,20_bark,vỏ (cây),vỏ_,v ỏ/o,,Duong2020,,,^v ỏ _$,default
+Vietnamese-20_bark-1,,Vietnamese,20_bark,vỏ (cây),vỏ_,v ɔː ²¹⁴,,Duong2020,,,^vỏ _$,default
 BanPhungLaChi-21_dog-1,,BanPhungLaChi,21_dog,mã41,mã41,m ã ⁴¹,,Duong2020,,,^m ã 41$,default
 BanDiuLaChi-21_dog-1,,BanDiuLaChi,21_dog,ti21 ma35,ti21_ma35,t i ²¹ + m a ³⁵,,Duong2020,,,^t i 21 _ m a 35$,default
 NungDinLaChi-21_dog-1,,NungDinLaChi,21_dog,ma323,ma323,m a ³²³,,Duong2020,,,^m a 323$,default
-Vietnamese-21_dog-1,,Vietnamese,21_dog,chó,chó,cʰ ó/o,,Duong2020,,,^ch ó $,default
+Vietnamese-21_dog-1,,Vietnamese,21_dog,chó,chó,c ɔː ⁴⁵,,Duong2020,,,^chó $,default
 BanPhungLaChi-22_bird-1,,BanPhungLaChi,22_bird,ʔa33 nɔ55ʔ,ʔa33_nɔ55ʔ,ʔ a ³³ + n ɔ ⁵⁵ ʔ,,Duong2020,,,^ʔ a 33 _ n ɔ 55 ʔ $,default
 BanDiuLaChi-22_bird-1,,BanDiuLaChi,22_bird,ti21 nɔ̆k45,ti21_nɔ̆k45,t i ²¹ + n ɔ̆ k ⁴⁵,,Duong2020,,,^t i 21 _ n ɔ̆ k 45$,default
 NungDinLaChi-22_bird-1,,NungDinLaChi,22_bird,nɔ̆k33,nɔ̆k33,n ɔ̆ k ³³,,Duong2020,,,^n ɔ̆ k 33$,default
-Vietnamese-22_bird-1,,Vietnamese,22_bird,chim,chim,cʰ i m,,Duong2020,,,^ch i m$,default
+Vietnamese-22_bird-1,,Vietnamese,22_bird,chim,chim,c i m ³³,,Duong2020,,,^chim $,default
 BanPhungLaChi-23_fish-1,,BanPhungLaChi,23_fish,ʔɑ44 li33,ʔɑ44_li33,ʔ ɑ ⁴⁴ + l i ³³,,Duong2020,,,^ʔ ɑ 44 _ l i 33$,default
 BanDiuLaChi-23_fish-1,,BanDiuLaChi,23_fish,ti21 pa35,ti21_pa35,t i ²¹ + p a ³⁵,,Duong2020,,,^t i 21 _ p a 35$,default
 NungDinLaChi-23_fish-1,,NungDinLaChi,23_fish,pɑ323,pɑ323,p ɑ ³²³,,Duong2020,,,^p ɑ 323$,default
-Vietnamese-23_fish-1,,Vietnamese,23_fish,cá,cá,c á,,Duong2020,,,^c á $,default
+Vietnamese-23_fish-1,,Vietnamese,23_fish,cá,cá,k aː ⁴⁵,,Duong2020,,,^cá $,default
 BanPhungLaChi-24_louse-1,,BanPhungLaChi,24_louse,te44,te44,t e ⁴⁴,,Duong2020,,,^t e 44$,default
 BanDiuLaChi-24_louse-1,,BanDiuLaChi,24_louse,ti323 măn33,ti323_măn33,t i ³²³ + m ă n ³³,,Duong2020,,,^t i 323 _ m ă n 33$,default
 NungDinLaChi-24_louse-1,,NungDinLaChi,24_louse,thăw33,thăw33,tʰ ăw/ău̯ ³³,,Duong2020,,,^th ăw 33$,default
-Vietnamese-24_louse-1,,Vietnamese,24_louse,chấy,chấy,cʰ ấy/ai̯,,Duong2020,,,^ch ấy $,default
+Vietnamese-24_louse-1,,Vietnamese,24_louse,chấy,chấy,c əi̯ ⁴⁵,,Duong2020,,,^chấy $,default
 BanPhungLaChi-25_claw-1,,BanPhungLaChi,25_claw,lɛ33 m̥55,lɛ33_m̥55,l ɛ ³³ + m̥ ⁵⁵,,Duong2020,,,^l ɛ 33 _ m̥ 55$,default
 BanDiuLaChi-25_claw-1,,BanDiuLaChi,25_claw,lɛp45,lɛp45,l ɛ p ⁴⁵,,Duong2020,,,^l ɛ p 45$,default
 NungDinLaChi-25_claw-1,,NungDinLaChi,25_claw,lɛp45,lɛp45,l ɛ p ⁴⁵,,Duong2020,,,^l ɛ p 45$,default
-Vietnamese-25_claw-1,,Vietnamese,25_claw,móng ,móng,m ó/o ŋ,,Duong2020,,,^m ó ng $,default
+Vietnamese-25_claw-1,,Vietnamese,25_claw,móng ,móng,m ɔ ŋm ⁴⁵,,Duong2020,,,^móng $,default
 BanPhungLaChi-26_horn-1,,BanPhungLaChi,26_horn,qɛ44,qɛ44,q ɛ ⁴⁴,,Duong2020,,,^q ɛ 44$,default
 BanDiuLaChi-26_horn-1,,BanDiuLaChi,26_horn,khăw323,khăw323,kʰ ăw/ău̯ ³²³,,Duong2020,,,^kh ăw 323$,default
 NungDinLaChi-26_horn-1,,NungDinLaChi,26_horn,khăw323,khăw323,kʰ ăw/ău̯ ³²³,,Duong2020,,,^kh ăw 323$,default
-Vietnamese-26_horn-1,,Vietnamese,26_horn,sừng,sừng,s ừ/u ŋ,,Duong2020,,,^s ừ ng $,default
+Vietnamese-26_horn-1,,Vietnamese,26_horn,sừng,sừng,s ɨ ŋ ²¹,,Duong2020,,,^sừng $,default
 BanPhungLaChi-27_leather-1,,BanPhungLaChi,27_leather,mɛ̃55 mɛ55ʔ,mɛ̃55_mɛ55ʔ,m ɛ̃ ⁵⁵ + m ɛ ⁵⁵ ʔ,,Duong2020,,,^m ɛ̃ 55 _ m ɛ 55 ʔ $,default
 BanDiuLaChi-27_leather-1,,BanDiuLaChi,27_leather,khɔn21 nɔ̆k35,khɔn21_nɔ̆k35,kʰ ɔ n ²¹ + n ɔ̆ k ³⁵,,Duong2020,,,^kh ɔ n 21 _ n ɔ̆ k 35$,default
 NungDinLaChi-27_leather-1,,NungDinLaChi,27_leather,khɔn21,khɔn21,kʰ ɔ n ²¹,,Duong2020,,,^kh ɔ n 21$,default
-Vietnamese-27_leather-1,,Vietnamese,27_leather,lông,lông,l ô/o ŋ,,Duong2020,,,^l ô ng $,default
+Vietnamese-27_leather-1,,Vietnamese,27_leather,lông,lông,l ɔ ŋm ³³,,Duong2020,,,^lông $,default
 BanPhungLaChi-28_tail-1,,BanPhungLaChi,28_tail,ɸɛ55ʔ,ɸɛ55ʔ,ɸ ɛ ⁵⁵ ʔ,,Duong2020,,,^ɸ ɛ 55 ʔ $,default
 BanDiuLaChi-28_tail-1,,BanDiuLaChi,28_tail,thaŋ323,thaŋ323,tʰ a ŋ ³²³,,Duong2020,,,^th a ŋ 323$,default
 NungDinLaChi-28_tail-1,,NungDinLaChi,28_tail,thaŋ323,thaŋ323,tʰ a ŋ ³²³,,Duong2020,,,^th a ŋ 323$,default
-Vietnamese-28_tail-1,,Vietnamese,28_tail,đuôi,đuôi,đ/ð u ô/o i,,Duong2020,,,^đ u ô i$,default
+Vietnamese-28_tail-1,,Vietnamese,28_tail,đuôi,đuôi,ɗ uːi̯ ³³,,Duong2020,,,^đuôi $,default
 BanPhungLaChi-29_egg-1,,BanPhungLaChi,29_egg,tã55ʔ,tã55ʔ,t ã ⁵⁵ ʔ,,Duong2020,,,^t ã 55 ʔ $,default
-BanDiuLaChi-29_egg-1,,BanDiuLaChi,29_egg,ăn33 saj31,ăn33_saj31,ă n ³³ + s a j ³¹,,Duong2020,,,^ă n 33 _ s a j 31$,default
+BanDiuLaChi-29_egg-1,,BanDiuLaChi,29_egg,ăn33 saj31,ăn33_saj31,ʔ a ŋ ³³ ³³ + s a j ³¹,,Duong2020,,,^ăn 33 _ s a j 31$,default
 NungDinLaChi-29_egg-1,,NungDinLaChi,29_egg,saj31,saj31,s a j ³¹,,Duong2020,,,^s a j 31$,default
-Vietnamese-29_egg-1,,Vietnamese,29_egg,trứng,trứng,t r ứ/u ŋ,,Duong2020,,,^t r ứ ng $,default
+Vietnamese-29_egg-1,,Vietnamese,29_egg,trứng,trứng,ʈ ɨ ŋ ⁴⁵,,Duong2020,,,^trứng $,default
 BanPhungLaChi-30_head-1,,BanPhungLaChi,30_head,năŋ53 kha545,năŋ53_kha545,n ă ŋ ⁵³ + kʰ a ⁵⁴⁵,,Duong2020,,,^n ă ŋ 53 _ kh a 545$,default
 BanDiuLaChi-30_head-1,,BanDiuLaChi,30_head,păk41 thu33,păk41_thu33,p ă k ⁴¹ + tʰ u ³³,,Duong2020,,,^p ă k 41 _ th u 33$,default
 NungDinLaChi-30_head-1,,NungDinLaChi,30_head,thu323,thu323,tʰ u ³²³,,Duong2020,,,^th u 323$,default
-Vietnamese-30_head-1,,Vietnamese,30_head,đầu,đầu,đ/ð ầ/a u,,Duong2020,,,^đ ầ u$,default
+Vietnamese-30_head-1,,Vietnamese,30_head,đầu,đầu,ɗ əu̯ ²¹,,Duong2020,,,^đầu $,default
 BanPhungLaChi-31_hair-1,,BanPhungLaChi,31_hair,kha545 cɔ55ʔ,kha545_cɔ55ʔ,kʰ a ⁵⁴⁵ + c ɔ ⁵⁵ ʔ,,Duong2020,,,^kh a 545 _ c ɔ 55 ʔ $,default
 BanDiuLaChi-31_hair-1,,BanDiuLaChi,31_hair,khɔ̆n323 thu323,khɔ̆n323_thu323,kʰ ɔ̆ n ³²³ + tʰ u ³²³,,Duong2020,,,^kh ɔ̆ n 323 _ th u 323$,default
 NungDinLaChi-31_hair-1,,NungDinLaChi,31_hair,khɔ̆n323 thu323,khɔ̆n323_thu323,kʰ ɔ̆ n ³²³ + tʰ u ³²³,,Duong2020,,,^kh ɔ̆ n 323 _ th u 323$,default
-Vietnamese-31_hair-1,,Vietnamese,31_hair,tóc,tóc,t ó/o c,,Duong2020,,,^t ó c$,default
+Vietnamese-31_hair-1,,Vietnamese,31_hair,tóc,tóc,t ɔ kp ⁴⁵,,Duong2020,,,^tóc $,default
 BanPhungLaChi-32_eye-1,,BanPhungLaChi,32_eye,năm53 tju33,năm53_tju33,n ă m ⁵³ + t j u ³³,,Duong2020,,,^n ă m 53 _ t j u 33$,default
 BanDiuLaChi-32_eye-1,,BanDiuLaChi,32_eye,luk35 tha323,luk35_tha323,l u k ³⁵ + tʰ a ³²³,,Duong2020,,,^l u k 35 _ th a 323$,default
 NungDinLaChi-32_eye-1,,NungDinLaChi,32_eye,tha323,tha323,tʰ a ³²³,,Duong2020,,,^th a 323$,default
-Vietnamese-32_eye-1,,Vietnamese,32_eye,mắt,mắt,m ắ/a t,,Duong2020,,,^m ắ t$,default
+Vietnamese-32_eye-1,,Vietnamese,32_eye,mắt,mắt,m a k ⁴⁵,,Duong2020,,,^mắt $,default
 BanPhungLaChi-33_nose-1,,BanPhungLaChi,33_nose,ɲa55ʔ,ɲa55ʔ,ɲ a ⁵⁵ ʔ,,Duong2020,,,^ɲ a 55 ʔ $,default
-BanDiuLaChi-33_nose-1,,BanDiuLaChi,33_nose,ăn33 ʔɗăŋ323,ăn33_ʔɗăŋ323,ă n ³³ + ʔ ɗ ă ŋ ³²³,,Duong2020,,,^ă n 33 _ ʔ ɗ ă ŋ 323$,default
+BanDiuLaChi-33_nose-1,,BanDiuLaChi,33_nose,ăn33 ʔɗăŋ323,ăn33_ʔɗăŋ323,ʔ a ŋ ³³ ³³ + ʔ ɗ ă ŋ ³²³,,Duong2020,,,^ăn 33 _ ʔ ɗ ă ŋ 323$,default
 NungDinLaChi-33_nose-1,,NungDinLaChi,33_nose,ʔɗăŋ323,ʔɗăŋ323,ʔ ɗ ă ŋ ³²³,,Duong2020,,,^ʔ ɗ ă ŋ 323$,default
-Vietnamese-33_nose-1,,Vietnamese,33_nose,mũi,mũi,m ũ i,,Duong2020,,,^m ũ i$,default
+Vietnamese-33_nose-1,,Vietnamese,33_nose,mũi,mũi,m ui̯ ²¹⁴,,Duong2020,,,^mũi $,default
 BanPhungLaChi-34_mouth-1,,BanPhungLaChi,34_mouth,m̥33 khɔ33,m̥33_khɔ33,m̥ ³³ + kʰ ɔ ³³,,Duong2020,,,^m̥ 33 _ kh ɔ 33$,default
 BanDiuLaChi-34_mouth-1,,BanDiuLaChi,34_mouth,cɯm41 pak21,cɯm41_pak21,c ɯ m ⁴¹ + p a k ²¹,,Duong2020,,,^c ɯ m 41 _ p a k 21$,default
 NungDinLaChi-34_mouth-1,,NungDinLaChi,34_mouth,pak21,pak21,p a k ²¹,,Duong2020,,,^p a k 21$,default
-Vietnamese-34_mouth-1,,Vietnamese,34_mouth,mồm/miệng,mồm,m ồ/o m,,Duong2020,,,^m ồ m$,default
-Vietnamese-34_mouth-2,,Vietnamese,34_mouth,mồm/miệng,miệng,m i ệ/e ŋ,,Duong2020,,,^m i ệ ng $,default
+Vietnamese-34_mouth-1,,Vietnamese,34_mouth,mồm/miệng,mồm,m oː m ²¹,,Duong2020,,,^mồm $,default
+Vietnamese-34_mouth-2,,Vietnamese,34_mouth,mồm/miệng,miệng,m iː ŋ ²¹²,,Duong2020,,,^miệng $,default
 BanPhungLaChi-35_tooth-1,,BanPhungLaChi,35_tooth,ɸi44,ɸi44,ɸ i ⁴⁴,,Duong2020,,,^ɸ i 44$,default
 BanDiuLaChi-35_tooth-1,,BanDiuLaChi,35_tooth,măk35 făn33,măk35_făn33,m ă k ³⁵ + f ă n ³³,,Duong2020,,,^m ă k 35 _ f ă n 33$,default
 NungDinLaChi-35_tooth-1,,NungDinLaChi,35_tooth,măk35 făn33,măk35_făn33,m ă k ³⁵ + f ă n ³³,,Duong2020,,,^m ă k 35 _ f ă n 33$,default
-Vietnamese-35_tooth-1,,Vietnamese,35_tooth,răng,răng,r ă ŋ,,Duong2020,,,^r ă ng $,default
+Vietnamese-35_tooth-1,,Vietnamese,35_tooth,răng,răng,r a ŋ ³³,,Duong2020,,,^răng $,default
 BanPhungLaChi-36_tongue-1,,BanPhungLaChi,36_tongue,m̥33 ljɔ33,m̥33_ljɔ33,m̥ ³³ + l j ɔ ³³,,Duong2020,,,^m̥ 33 _ l j ɔ 33$,default
 BanDiuLaChi-36_tongue-1,,BanDiuLaChi,36_tongue,măk21 lin45,măk21_lin45,m ă k ²¹ + l i n ⁴⁵,,Duong2020,,,^m ă k 21 _ l i n 45$,default
 NungDinLaChi-36_tongue-1,,NungDinLaChi,36_tongue,lin45,lin45,l i n ⁴⁵,,Duong2020,,,^l i n 45$,default
-Vietnamese-36_tongue-1,,Vietnamese,36_tongue,lưỡi,lưỡi,l ư/u ỡ/o i,,Duong2020,,,^l ư ỡ i$,default
+Vietnamese-36_tongue-1,,Vietnamese,36_tongue,lưỡi,lưỡi,l ɨːi̯ ²¹⁴,,Duong2020,,,^lưỡi $,default
 BanPhungLaChi-37_ear-1,,BanPhungLaChi,37_ear,lu33,lu33,l u ³³,,Duong2020,,,^l u 33$,default
 BanDiuLaChi-37_ear-1,,BanDiuLaChi,37_ear,bɤ33 siw21   ,bɤ33_siw21,b ɤ ³³ + s i w ²¹,,Duong2020,,,^b ɤ 33 _ s i w 21$,default
 NungDinLaChi-37_ear-1,,NungDinLaChi,37_ear,su323,su323,s u ³²³,,Duong2020,,,^s u 323$,default
-Vietnamese-37_ear-1,,Vietnamese,37_ear,tai,tai,t a i,,Duong2020,,,^t a i$,default
+Vietnamese-37_ear-1,,Vietnamese,37_ear,tai,tai,t aːi̯ ³³,,Duong2020,,,^tai $,default
 BanPhungLaChi-38_neck-1,,BanPhungLaChi,38_neck,ka44 tu33 zu55ʔ,ka44_tu33_zu55ʔ,k a ⁴⁴ + t u ³³ + z u ⁵⁵ ʔ,,Duong2020,,,^k a 44 _ t u 33 _ z u 55 ʔ $,default
 BanDiuLaChi-38_neck-1,,BanDiuLaChi,38_neck,ho33,ho33,h o ³³,,Duong2020,,,^h o 33$,default
 NungDinLaChi-38_neck-1,,NungDinLaChi,38_neck,kɔk45 ho33,kɔk45_ho33,k ɔ k ⁴⁵ + h o ³³,,Duong2020,,,^k ɔ k 45 _ h o 33$,default
-Vietnamese-38_neck-1,,Vietnamese,38_neck,cổ,cổ,c ổ/o,,Duong2020,,,^c ổ$,default
+Vietnamese-38_neck-1,,Vietnamese,38_neck,cổ,cổ,k oː ²¹⁴,,Duong2020,,,^cổ $,default
 BanPhungLaChi-39_hand-1,,BanPhungLaChi,39_hand,m̥55,m̥55,m̥ ⁵⁵,,Duong2020,,,^m̥ 55$,default
 BanDiuLaChi-39_hand-1,,BanDiuLaChi,39_hand,mŭŋ33,mŭŋ33,m ŭ ŋ ³³,,Duong2020,,,^m ŭ ŋ 33$,default
 NungDinLaChi-39_hand-1,,NungDinLaChi,39_hand,mŭŋ33,mŭŋ33,m ŭ ŋ ³³,,Duong2020,,,^m ŭ ŋ 33$,default
-Vietnamese-39_hand-1,,Vietnamese,39_hand,tay,tay,t ay/ai̯,,Duong2020,,,^t ay $,default
+Vietnamese-39_hand-1,,Vietnamese,39_hand,tay,tay,t ai̯ ³³,,Duong2020,,,^tay $,default
 BanPhungLaChi-40_chest-1,,BanPhungLaChi,40_chest,ta21 phũ53,ta21_phũ53,t a ²¹ + pʰ ũ ⁵³,,Duong2020,,,^t a 21 _ ph ũ 53$,default
 BanDiuLaChi-40_chest-1,,BanDiuLaChi,40_chest,păk212 Ɂăk45,păk212_Ɂăk45,p ă k ²¹² + ʔ ă k ⁴⁵,,Duong2020,,,^p ă k 212 _ Ɂ ă k 45$,default
 NungDinLaChi-40_chest-1,,NungDinLaChi,40_chest,ʔăk45,ʔăk45,ʔ ă k ⁴⁵,,Duong2020,,,^ʔ ă k 45$,default
-Vietnamese-40_chest-1,,Vietnamese,40_chest,ngực,ngực,n g ự/u c,,Duong2020,,,^n g ự c$,default
+Vietnamese-40_chest-1,,Vietnamese,40_chest,ngực,ngực,ŋ ɨ k ²¹²,,Duong2020,,,^ngực $,default
 BanPhungLaChi-41_foot-1,,BanPhungLaChi,41_foot,lɛ53,lɛ53,l ɛ ⁵³,,Duong2020,,,^l ɛ 53$,default
 BanDiuLaChi-41_foot-1,,BanDiuLaChi,41_foot,pha33 kha45,pha33_kha45,pʰ a ³³ + kʰ a ⁴⁵,,Duong2020,,,^ph a 33 _ kh a 45$,default
 NungDinLaChi-41_foot-1,,NungDinLaChi,41_foot,kha323,kha323,kʰ a ³²³,,Duong2020,,,^kh a 323$,default
-Vietnamese-41_foot-1,,Vietnamese,41_foot,bàn chân,bàn_chân,b à/a n + cʰ â n,,Duong2020,,,^b à n _ ch â n$,default
+Vietnamese-41_foot-1,,Vietnamese,41_foot,bàn chân,bàn_chân,ɓ aː ŋ ²¹ + c ə ŋ ³³,,Duong2020,,,^bàn_chân $,default
 BanPhungLaChi-42_knee-1,,BanPhungLaChi,42_knee,kan55 thjɔ11 thju11,kan55_thjɔ11_thju11,k a n ⁵⁵ + tʰ j ɔ ¹¹ + tʰ j u ¹¹,,Duong2020,,,^k a n 55 _ th j ɔ 11 _ th j u 11$,default
 BanDiuLaChi-42_knee-1,,BanDiuLaChi,42_knee,kha35 khɤ̆w21,kha35_khɤ̆w21,kʰ a ³⁵ + kʰ ɤ̆w/ɤ̆u̯ ²¹,,Duong2020,,,^kh a 35 _ kh ɤ̆w 21$,default
 NungDinLaChi-42_knee-1,,NungDinLaChi,42_knee,thu33 khăw21,thu33_khăw21,tʰ u ³³ + kʰ ăw/ău̯ ²¹,,Duong2020,,,^th u 33 _ kh ăw 21$,default
-Vietnamese-42_knee-1,,Vietnamese,42_knee,đầu gối,đầu_gối,đ/ð ầ/a u + g ó/o i,,Duong2020,,,^đ ầ u _ g ố i$,default
+Vietnamese-42_knee-1,,Vietnamese,42_knee,đầu gối,đầu_gối,ɗ əu̯ ²¹ + ɡ oːi̯ ⁴⁵,,Duong2020,,,^đầu_gối $,default
 BanPhungLaChi-43_stomach-1,,BanPhungLaChi,43_stomach,ma53 nũ11 khɔ33,ma53_nũ11_khɔ33,m a ⁵³ + n ũ ¹¹ + kʰ ɔ ³³,,Duong2020,,,^m a 53 _ n ũ 11 _ kh ɔ 33$,default
 BanDiuLaChi-43_stomach-1,,BanDiuLaChi,43_stomach,măk11 toːŋ45,măk11_toːŋ45,m ă k ¹¹ + t oː ŋ ⁴⁵,,Duong2020,,,^m ă k 11 _ t oː ŋ 45$,default
-NungDinLaChi-43_stomach-1,,NungDinLaChi,43_stomach,toŋ45,toŋ45,t o ŋ ⁴⁵,,Duong2020,,,^t o ŋ 45$,default
-Vietnamese-43_stomach-1,,Vietnamese,43_stomach,bụng,bụng,b ụ/u ŋ,,Duong2020,,,^b ụ ng $,default
+NungDinLaChi-43_stomach-1,,NungDinLaChi,43_stomach,toŋ45,toŋ45,t ɔː ³³ ŋ ⁴⁵,,Duong2020,,,^to ŋ 45$,default
+Vietnamese-43_stomach-1,,Vietnamese,43_stomach,bụng,bụng,ɓ u ŋm ²¹²,,Duong2020,,,^bụng $,default
 BanPhungLaChi-44_liver-1,,BanPhungLaChi,44_liver,ta55ʔ,ta55ʔ,t a ⁵⁵ ʔ,,Duong2020,,,^t a 55 ʔ $,default
 BanDiuLaChi-44_liver-1,,BanDiuLaChi,44_liver,tăp45,tăp45,t ă p ⁴⁵,,Duong2020,,,^t ă p 45$,default
 NungDinLaChi-44_liver-1,,NungDinLaChi,44_liver,tăp45,tăp45,t ă p ⁴⁵,,Duong2020,,,^t ă p 45$,default
-Vietnamese-44_liver-1,,Vietnamese,44_liver,gan,gan,g a n,,Duong2020,,,^g a n$,default
+Vietnamese-44_liver-1,,Vietnamese,44_liver,gan,gan,ɡ aː ŋ ³³,,Duong2020,,,^gan $,default
 BanPhungLaChi-45_heart-1,,BanPhungLaChi,45_heart,năm53 le53,năm53_le53,n ă m ⁵³ + l e ⁵³,,Duong2020,,,^n ă m 53 _ l e 53$,default
 BanDiuLaChi-45_heart-1,,BanDiuLaChi,45_heart,măk323 thɯ33 cɯ33,măk323_thɯ33_cɯ33,m ă k ³²³ + tʰ ɯ ³³ + c ɯ ³³,,Duong2020,,,^m ă k 323 _ th ɯ 33 _ c ɯ 33$,default
 NungDinLaChi-45_heart-1,,NungDinLaChi,45_heart,mak21 thɯ33 cɤ̆ɯ33,mak21_thɯ33_cɤ̆ɯ33,m a k ²¹ + tʰ ɯ ³³ + c ɤ̆ɯ/ɤ̆ɯ̯ ³³,,Duong2020,,,^m a k 21 _ th ɯ 33 _ c ɤ̆ɯ 33$,default
-Vietnamese-45_heart-1,,Vietnamese,45_heart,tim,tim,t i m,,Duong2020,,,^t i m$,default
+Vietnamese-45_heart-1,,Vietnamese,45_heart,tim,tim,t i m ³³,,Duong2020,,,^tim $,default
 BanPhungLaChi-46_blood-1,,BanPhungLaChi,46_blood,pju33,pju33,p j u ³³,,Duong2020,,,^p j u 33$,default
 BanDiuLaChi-46_blood-1,,BanDiuLaChi,46_blood,lɯt212,lɯt212,l ɯ t ²¹²,,Duong2020,,,^l ɯ t 212$,default
 NungDinLaChi-46_blood-1,,NungDinLaChi,46_blood,lɯt212,lɯt212,l ɯ t ²¹²,,Duong2020,,,^l ɯ t 212$,default
-Vietnamese-46_blood-1,,Vietnamese,46_blood,máu,máu,m áu/au̯,,Duong2020,,,^m áu $,default
+Vietnamese-46_blood-1,,Vietnamese,46_blood,máu,máu,m au̯ ⁴⁵,,Duong2020,,,^máu $,default
 BanPhungLaChi-47_skin-1,,BanPhungLaChi,47_skin,ka33 tu33,ka33_tu33,k a ³³ + t u ³³,,Duong2020,,,^k a 33 _ t u 33$,default
 BanDiuLaChi-47_skin-1,,BanDiuLaChi,47_skin,năŋ35 nɯ33,năŋ35_nɯ33,n ă ŋ ³⁵ + n ɯ ³³,,Duong2020,,,^n ă ŋ 35 _ n ɯ 33$,default
 NungDinLaChi-47_skin-1,,NungDinLaChi,47_skin,năŋ323,năŋ323,n ă ŋ ³²³,,Duong2020,,,^n ă ŋ 323$,default
-Vietnamese-47_skin-1,,Vietnamese,47_skin,da,da,d a,,Duong2020,,,^d a$,default
+Vietnamese-47_skin-1,,Vietnamese,47_skin,da,da,j aː ³³,,Duong2020,,,^da $,default
 BanPhungLaChi-48_bone-1,,BanPhungLaChi,48_bone,kăn53 thɔ55ʔ,kăn53_thɔ55ʔ,k ă n ⁵³ + tʰ ɔ ⁵⁵ ʔ,,Duong2020,,,^k ă n 53 _ th ɔ 55 ʔ $,default
 BanDiuLaChi-48_bone-1,,BanDiuLaChi,48_bone,ʔɗŭk45,ʔɗŭk45,ʔ ɗ ŭ k ⁴⁵,,Duong2020,,,^ʔ ɗ ŭ k 45$,default
 NungDinLaChi-48_bone-1,,NungDinLaChi,48_bone,ʔɗŭk45,ʔɗŭk45,ʔ ɗ ŭ k ⁴⁵,,Duong2020,,,^ʔ ɗ ŭ k 45$,default
-Vietnamese-48_bone-1,,Vietnamese,48_bone,xương,xương,x ư/u ơ/o ŋ,,Duong2020,,,^x ư ơ ng $,default
+Vietnamese-48_bone-1,,Vietnamese,48_bone,xương,xương,s ɨː ŋ ³³,,Duong2020,,,^xương $,default
 BanPhungLaChi-49_meat-1,,BanPhungLaChi,49_meat,ʔɔ53,ʔɔ53,ʔ ɔ ⁵³,,Duong2020,,,^ʔ ɔ 53$,default
 BanDiuLaChi-49_meat-1,,BanDiuLaChi,49_meat,nɯ45,nɯ45,n ɯ ⁴⁵,,Duong2020,,,^n ɯ 45$,default
 NungDinLaChi-49_meat-1,,NungDinLaChi,49_meat,nɯ45,nɯ45,n ɯ ⁴⁵,,Duong2020,,,^n ɯ 45$,default
-Vietnamese-49_meat-1,,Vietnamese,49_meat,thịt,thịt,tʰ ị/i t,,Duong2020,,,^th ị t$,default
+Vietnamese-49_meat-1,,Vietnamese,49_meat,thịt,thịt,tʰ ɨ t ²¹²,,Duong2020,,,^thịt $,default
 BanPhungLaChi-50_fat-1,,BanPhungLaChi,50_fat,m̥33 na44,m̥33_na44,m̥ ³³ + n a ⁴⁴,,Duong2020,,,^m̥ 33 _ n a 44$,default
 BanDiuLaChi-50_fat-1,,BanDiuLaChi,50_fat,ziw33,ziw33,z i w ³³,,Duong2020,,,^z i w 33$,default
 NungDinLaChi-50_fat-1,,NungDinLaChi,50_fat,zu33,zu33,z u ³³,,Duong2020,,,^z u 33$,default
-Vietnamese-50_fat-1,,Vietnamese,50_fat,mỡ,mỡ,m ỡ/o,,Duong2020,,,^m ỡ$,default
+Vietnamese-50_fat-1,,Vietnamese,50_fat,mỡ,mỡ,m əː ²¹⁴,,Duong2020,,,^mỡ $,default
 BanPhungLaChi-51_human-1,,BanPhungLaChi,51_human,qo11,qo11,q o ¹¹,,Duong2020,,,^q o 11$,default
 BanDiuLaChi-51_human-1,,BanDiuLaChi,51_human,ti323 kɔ̆n33,ti323_kɔ̆n33,t i ³²³ + k ɔ̆ n ³³,,Duong2020,,,^t i 323 _ k ɔ̆ n 33$,default
 NungDinLaChi-51_human-1,,NungDinLaChi,51_human,kɔ̆n33,kɔ̆n33,k ɔ̆ n ³³,,Duong2020,,,^k ɔ̆ n 33$,default
-Vietnamese-51_human-1,,Vietnamese,51_human,người,người,n g ư/u ờ/o i,,Duong2020,,,^n g ư ờ i$,default
+Vietnamese-51_human-1,,Vietnamese,51_human,người,người,ŋ ɨːi̯ ²¹,,Duong2020,,,^người $,default
 BanPhungLaChi-52_name-1,,BanPhungLaChi,52_name,ka55 nĩ33,ka55_nĩ33,k a ⁵⁵ + n ĩ ³³,,Duong2020,,,^k a 55 _ n ĩ 33$,default
 BanDiuLaChi-52_name-1,,BanDiuLaChi,52_name,cɯ31,cɯ31,c ɯ ³¹,,Duong2020,,,^c ɯ 31$,default
 NungDinLaChi-52_name-1,,NungDinLaChi,52_name,cɯ31,cɯ31,c ɯ ³¹,,Duong2020,,,^c ɯ 31$,default
-Vietnamese-52_name-1,,Vietnamese,52_name,tên,tên,t ê/e n,,Duong2020,,,^t ê n$,default
+Vietnamese-52_name-1,,Vietnamese,52_name,tên,tên,t əː n ³³,,Duong2020,,,^tên $,default
 BanPhungLaChi-53_man-1,,BanPhungLaChi,53_man,nĩ33 mjã11,nĩ33_mjã11,n ĩ ³³ + m j ã ¹¹,,Duong2020,,,^n ĩ 33 _ m j ã 11$,default
 BanDiuLaChi-53_man-1,,BanDiuLaChi,53_man,phɯ21 caj33,phɯ21_caj33,pʰ ɯ ²¹ + c a j ³³,,Duong2020,,,^ph ɯ 21 _ c a j 33$,default
 NungDinLaChi-53_man-1,,NungDinLaChi,53_man,phu31 caj33,phu31_caj33,pʰ u ³¹ + c a j ³³,,Duong2020,,,^ph u 31 _ c a j 33$,default
-Vietnamese-53_man-1,,Vietnamese,53_man,đàn ông,đàn_ông,đ/ð à/a n + ô/o ŋ,,Duong2020,,,^đ à n _ ô ng $,default
+Vietnamese-53_man-1,,Vietnamese,53_man,đàn ông,đàn_ông,ɗ aː ŋ ²¹ + ʔ ɔ ŋm ³³,,Duong2020,,,^đàn_ông $,default
 BanPhungLaChi-54_woman-1,,BanPhungLaChi,54_woman,nĩ33 mjã11,nĩ33_mjã11,n ĩ ³³ + m j ã ¹¹,,Duong2020,,,^n ĩ 33 _ m j ã 11$,default
 BanDiuLaChi-54_woman-1,,BanDiuLaChi,54_woman,phɯ21 ŋiŋ33,phɯ21_ŋiŋ33,pʰ ɯ ²¹ + ŋ i ŋ ³³,,Duong2020,,,^ph ɯ 21 _ ŋ i ŋ 33$,default
 NungDinLaChi-54_woman-1,,NungDinLaChi,54_woman,phu31 ɲĭŋ33,phu31_ɲĭŋ33,pʰ u ³¹ + ɲ ĭ ŋ ³³,,Duong2020,,,^ph u 31 _ ɲ ĭ ŋ 33$,default
-Vietnamese-54_woman-1,,Vietnamese,54_woman,đàn bà,đàn_bà,đ/ð à/a n + b à/a,,Duong2020,,,^đ à n _ b à$,default
+Vietnamese-54_woman-1,,Vietnamese,54_woman,đàn bà,đàn_bà,ɗ aː ŋ ²¹ + ɓ aː ²¹,,Duong2020,,,^đàn_bà $,default
 BanPhungLaChi-55_new-1,,BanPhungLaChi,55_new,la33 m̥55ʔ,la33_m̥55ʔ,l a ³³ + m̥ ⁵⁵ ʔ,,Duong2020,,,^l a 33 _ m̥ 55 ʔ $,default
 BanDiuLaChi-55_new-1,,BanDiuLaChi,55_new,mɯ21,mɯ21,m ɯ ²¹,,Duong2020,,,^m ɯ 21$,default
 NungDinLaChi-55_new-1,,NungDinLaChi,55_new,măɯ31,măɯ31,m ă ɯ ³¹,,Duong2020,,,^m ă ɯ 31$,default
-Vietnamese-55_new-1,,Vietnamese,55_new,mới,mới,m ớ/o i,,Duong2020,,,^m ớ i$,default
+Vietnamese-55_new-1,,Vietnamese,55_new,mới,mới,m əːi̯ ⁴⁵,,Duong2020,,,^mới $,default
 BanPhungLaChi-56_good-1,,BanPhungLaChi,56_good,ka33 la44,ka33_la44,k a ³³ + l a ⁴⁴,,Duong2020,,,^k a 33 _ l a 44$,default
 BanDiuLaChi-56_good-1,,BanDiuLaChi,56_good,dăj323,dăj323,d ă j ³²³,,Duong2020,,,^d ă j 323$,default
 NungDinLaChi-56_good-1,,NungDinLaChi,56_good,caj31/ dăj323,caj31,c a j ³¹,,Duong2020,,,^c a j 31$,default
 NungDinLaChi-56_good-2,,NungDinLaChi,56_good,caj31/ dăj323,dăj323,d ă j ³²³,,Duong2020,,,^d ă j 323$,default
-Vietnamese-56_good-1,,Vietnamese,56_good,tốt,tốt,t ó/o t,,Duong2020,,,^t ố t$,default
+Vietnamese-56_good-1,,Vietnamese,56_good,tốt,tốt,t o k ⁴⁵,,Duong2020,,,^tốt $,default
 BanPhungLaChi-57_bighuge-1,,BanPhungLaChi,57_bighuge,mĩ545,mĩ545,m ĩ ⁵⁴⁵,,Duong2020,,,^m ĩ 545$,default
 BanDiuLaChi-57_bighuge-1,,BanDiuLaChi,57_bighuge,tɯ45,tɯ45,t ɯ ⁴⁵,,Duong2020,,,^t ɯ 45$,default
 NungDinLaChi-57_bighuge-1,,NungDinLaChi,57_bighuge,tɯ45,tɯ45,t ɯ ⁴⁵,,Duong2020,,,^t ɯ 45$,default
-Vietnamese-57_bighuge-1,,Vietnamese,57_bighuge,to/lớn,to,t o,,Duong2020,,,^t o$,default
-Vietnamese-57_bighuge-2,,Vietnamese,57_bighuge,to/lớn,lớn,l ớ/o n,,Duong2020,,,^l ớ n$,default
+Vietnamese-57_bighuge-1,,Vietnamese,57_bighuge,to/lớn,to,t ɔː ³³,,Duong2020,,,^to $,default
+Vietnamese-57_bighuge-2,,Vietnamese,57_bighuge,to/lớn,lớn,l əː ŋ ⁴⁵,,Duong2020,,,^lớn $,default
 BanPhungLaChi-58_smalltiny-1,,BanPhungLaChi,58_smalltiny,tɛn21 tɛ35,tɛn21_tɛ35,t ɛ n ²¹ + t ɛ ³⁵,,Duong2020,,,^t ɛ n 21 _ t ɛ 35$,default
 BanDiuLaChi-58_smalltiny-1,,BanDiuLaChi,58_smalltiny,ʔe45,ʔe45,ʔ e ⁴⁵,,Duong2020,,,^ʔ e 45$,default
 NungDinLaChi-58_smalltiny-1,,NungDinLaChi,58_smalltiny,ʔe45,ʔe45,ʔ e ⁴⁵,,Duong2020,,,^ʔ e 45$,default
-Vietnamese-58_smalltiny-1,,Vietnamese,58_smalltiny,nhỏ/bé,nhỏ,nh/n̊ ỏ/o,,Duong2020,,,^nh ỏ $,default
-Vietnamese-58_smalltiny-2,,Vietnamese,58_smalltiny,nhỏ/bé,bé,b é/e,,Duong2020,,,^bé $,default
+Vietnamese-58_smalltiny-1,,Vietnamese,58_smalltiny,nhỏ/bé,nhỏ,ɲ ɔː ²¹⁴,,Duong2020,,,^nhỏ $,default
+Vietnamese-58_smalltiny-2,,Vietnamese,58_smalltiny,nhỏ/bé,bé,ɓ ɛː ⁴⁵,,Duong2020,,,^bé $,default
 BanPhungLaChi-59_red-1,,BanPhungLaChi,59_red,pu53 thjɔ53,pu53_thjɔ53,p u ⁵³ + tʰ j ɔ ⁵³,,Duong2020,,,^p u 53 _ th j ɔ 53$,default
 BanDiuLaChi-59_red-1,,BanDiuLaChi,59_red,ʔɗeŋ323,ʔɗeŋ323,ʔ ɗ e ŋ ³²³,,Duong2020,,,^ʔ ɗ e ŋ 323$,default
 NungDinLaChi-59_red-1,,NungDinLaChi,59_red,ʔɗeŋ323,ʔɗeŋ323,ʔ ɗ e ŋ ³²³,,Duong2020,,,^ʔ ɗ e ŋ 323$,default
-Vietnamese-59_red-1,,Vietnamese,59_red,đỏ,đỏ,đ/ð ỏ/o,,Duong2020,,,^đ ỏ $,default
+Vietnamese-59_red-1,,Vietnamese,59_red,đỏ,đỏ,ɗ ɔː ²¹⁴,,Duong2020,,,^đỏ $,default
 BanPhungLaChi-60_black-1,,BanPhungLaChi,60_black,năm545 lja55,năm545_lja55,n ă m ⁵⁴⁵ + l j a ⁵⁵,,Duong2020,,,^n ă m 545 _ l j a 55 $,default
 BanDiuLaChi-60_black-1,,BanDiuLaChi,60_black,ʔɗăm33,ʔɗăm33,ʔ ɗ ă m ³³,,Duong2020,,,^ʔ ɗ ă m 33$,default
 NungDinLaChi-60_black-1,,NungDinLaChi,60_black,ʔɗăm33,ʔɗăm33,ʔ ɗ ă m ³³,,Duong2020,,,^ʔ ɗ ă m 33$,default
-Vietnamese-60_black-1,,Vietnamese,60_black,đen,đen,đ/ð e n,,Duong2020,,,^đ e n$,default
+Vietnamese-60_black-1,,Vietnamese,60_black,đen,đen,ɗ ɛː ŋ ³³,,Duong2020,,,^đen $,default
 BanPhungLaChi-61_white-1,,BanPhungLaChi,61_white,ci545 ʔi33,ci545_ʔi33,c i ⁵⁴⁵ + ʔ i ³³,,Duong2020,,,^c i 545 _ ʔ i 33$,default
 BanDiuLaChi-61_white-1,,BanDiuLaChi,61_white,khaw323,khaw323,kʰ a w ³²³,,Duong2020,,,^kh a w 323$,default
 NungDinLaChi-61_white-1,,NungDinLaChi,61_white,khaw323,khaw323,kʰ a w ³²³,,Duong2020,,,^kh a w 323$,default
-Vietnamese-61_white-1,,Vietnamese,61_white,trắng,trắng,t r ắ/a ŋ,,Duong2020,,,^t r ắ ng $,default
+Vietnamese-61_white-1,,Vietnamese,61_white,trắng,trắng,ʈ a ŋ ⁴⁵,,Duong2020,,,^trắng $,default
 BanPhungLaChi-62_bluegreen-1,,BanPhungLaChi,62_bluegreen,na545 mɨ55,na545_mɨ55,n a ⁵⁴⁵ + m ɨ ⁵⁵,,Duong2020,,,^n a 545 _ m ɨ 55$,default
 BanDiuLaChi-62_bluegreen-1,,BanDiuLaChi,62_bluegreen,moŋ35,moŋ35,m o ŋ ³⁵,,Duong2020,,,^m o ŋ 35$,default
 NungDinLaChi-62_bluegreen-1,,NungDinLaChi,62_bluegreen,siw323,siw323,s i w ³²³,,Duong2020,,,^s i w 323$,default
-Vietnamese-62_bluegreen-1,,Vietnamese,62_bluegreen,xanh,xanh,x a nh/n̥,,Duong2020,,,^x a nh$,default
+Vietnamese-62_bluegreen-1,,Vietnamese,62_bluegreen,xanh,xanh,s a n ³³,,Duong2020,,,^xanh $,default
 BanPhungLaChi-63_yellow-1,,BanPhungLaChi,63_yellow,nf545 nɨ55,nf545_nɨ55,n f ⁵⁴⁵ + n ɨ ⁵⁵,,Duong2020,,,^n f 545 _ n ɨ 55$,default
 BanDiuLaChi-63_yellow-1,,BanDiuLaChi,63_yellow,hen21,hen21,h e n ²¹,,Duong2020,,,^h e n 21$,default
 NungDinLaChi-63_yellow-1,,NungDinLaChi,63_yellow,hen21,hen21,h e n ²¹,,Duong2020,,,^h e n 21$,default
-Vietnamese-63_yellow-1,,Vietnamese,63_yellow,vàng,vàng,v à/a ŋ,,Duong2020,,,^v à ng $,default
+Vietnamese-63_yellow-1,,Vietnamese,63_yellow,vàng,vàng,v aː ŋ ²¹,,Duong2020,,,^vàng $,default
 BanPhungLaChi-64_long-1,,BanPhungLaChi,64_long,βe53 βɛ55ʔ,βe53_βɛ55ʔ,β e ⁵³ + β ɛ ⁵⁵ ʔ,,Duong2020,,,^β e 53 _ β ɛ 55 ʔ $,default
 BanDiuLaChi-64_long-1,,BanDiuLaChi,64_long,li33,li33,l i ³³,,Duong2020,,,^l i 33$,default
 NungDinLaChi-64_long-1,,NungDinLaChi,64_long,ri33,ri33,r i ³³,,Duong2020,,,^r i 33$,default
-Vietnamese-64_long-1,,Vietnamese,64_long,dài,dài,d à/a i,,Duong2020,,,^d à i$,default
+Vietnamese-64_long-1,,Vietnamese,64_long,dài,dài,j aːi̯ ²¹,,Duong2020,,,^dài $,default
 BanPhungLaChi-65_many-1,,BanPhungLaChi,65_many,ma545,ma545,m a ⁵⁴⁵,,Duong2020,,,^m a 545$,default
 BanDiuLaChi-65_many-1,,BanDiuLaChi,65_many,laj323,laj323,l a j ³²³,,Duong2020,,,^l a j 323$,default
 NungDinLaChi-65_many-1,,NungDinLaChi,65_many,laj323,laj323,l a j ³²³,,Duong2020,,,^l a j 323$,default
-Vietnamese-65_many-1,,Vietnamese,65_many,nhiều,nhiều,nh/n̊ i ề/e u,,Duong2020,,,^nh i ề u$,default
+Vietnamese-65_many-1,,Vietnamese,65_many,nhiều,nhiều,ɲ iːu̯ ²¹,,Duong2020,,,^nhiều $,default
 BanPhungLaChi-66_round-1,,BanPhungLaChi,66_round,thiɲ545 le11,thiɲ545_le11,tʰ i ɲ ⁵⁴⁵ + l e ¹¹,,Duong2020,,,^th i ɲ 545 _ l e 11$,default
 BanDiuLaChi-66_round-1,,BanDiuLaChi,66_round,măn33,măn33,m ă n ³³,,Duong2020,,,^m ă n 33$,default
 NungDinLaChi-66_round-1,,NungDinLaChi,66_round,măn33,măn33,m ă n ³³,,Duong2020,,,^m ă n 33$,default
-Vietnamese-66_round-1,,Vietnamese,66_round,tròn,tròn,t r ò/o n,,Duong2020,,,^t r ò n$,default
+Vietnamese-66_round-1,,Vietnamese,66_round,tròn,tròn,ʈ ɔː ŋ ²¹,,Duong2020,,,^tròn $,default
 BanPhungLaChi-67_hot-1,,BanPhungLaChi,67_hot,ʔăm44 lu55ʔ,ʔăm44_lu55ʔ,ʔ ă m ⁴⁴ + l u ⁵⁵ ʔ,,Duong2020,,,^ʔ ă m 44 _ l u 55 ʔ $,default
-BanDiuLaChi-67_hot-1,,BanDiuLaChi,67_hot,dat212,dat212,d a t ²¹²,,Duong2020,,,^d a t 212$,default
-NungDinLaChi-67_hot-1,,NungDinLaChi,67_hot,dat212,dat212,d a t ²¹²,,Duong2020,,,^d a t 212$,default
-Vietnamese-67_hot-1,,Vietnamese,67_hot,nóng,nóng,n ó/o ŋ,,Duong2020,,,^n ó ng $,default
+BanDiuLaChi-67_hot-1,,BanDiuLaChi,67_hot,dat212,dat212,j aː ³³ t ²¹²,,Duong2020,,,^da t 212$,default
+NungDinLaChi-67_hot-1,,NungDinLaChi,67_hot,dat212,dat212,j aː ³³ t ²¹²,,Duong2020,,,^da t 212$,default
+Vietnamese-67_hot-1,,Vietnamese,67_hot,nóng,nóng,n ɔ ŋm ⁴⁵,,Duong2020,,,^nóng $,default
 BanPhungLaChi-68_cold-1,,BanPhungLaChi,68_cold,săm53 se53,săm53_se53,s ă m ⁵³ + s e ⁵³,,Duong2020,,,^s ă m 53 _ s e 53$,default
 BanDiuLaChi-68_cold-1,,BanDiuLaChi,68_cold,sit45,sit45,s i t ⁴⁵,,Duong2020,,,^s i t 45$,default
 NungDinLaChi-68_cold-1,,NungDinLaChi,68_cold,kɔ̆ŋ33,kɔ̆ŋ33,k ɔ̆ ŋ ³³,,Duong2020,,,^k ɔ̆ ŋ 33$,default
-Vietnamese-68_cold-1,,Vietnamese,68_cold,lạnh,lạnh,l ạ/a nh/n̥,,Duong2020,,,^l ạ nh$,default
+Vietnamese-68_cold-1,,Vietnamese,68_cold,lạnh,lạnh,l a n ²¹²,,Duong2020,,,^lạnh $,default
 BanPhungLaChi-69_full-1,,BanPhungLaChi,69_full,m̥53 ti33,m̥53_ti33,m̥ ⁵³ + t i ³³,,Duong2020,,,^m̥ 53 _ t i 33$,default
 BanDiuLaChi-69_full-1,,BanDiuLaChi,69_full,tɛm35,tɛm35,t ɛ m ³⁵,,Duong2020,,,^t ɛ m 35$,default
 NungDinLaChi-69_full-1,,NungDinLaChi,69_full,tăm323,tăm323,t ă m ³²³,,Duong2020,,,^t ă m 323$,default
-Vietnamese-69_full-1,,Vietnamese,69_full,đầy,đầy,đ/ð ầy/ai̯,,Duong2020,,,^đ ầy $,default
+Vietnamese-69_full-1,,Vietnamese,69_full,đầy,đầy,ɗ əi̯ ²¹,,Duong2020,,,^đầy $,default
 BanPhungLaChi-70_dry-1,,BanPhungLaChi,70_dry,qa44,qa44,q a ⁴⁴,,Duong2020,,,^q a 44$,default
 BanDiuLaChi-70_dry-1,,BanDiuLaChi,70_dry,khɯ21,khɯ21,kʰ ɯ ²¹,,Duong2020,,,^kh ɯ 21$,default
 NungDinLaChi-70_dry-1,,NungDinLaChi,70_dry,khăɯ21,khăɯ21,kʰ ă ɯ ²¹,,Duong2020,,,^kh ă ɯ 21$,default
-Vietnamese-70_dry-1,,Vietnamese,70_dry,khô,khô,kʰ ô/o,,Duong2020,,,^kh ô $,default
+Vietnamese-70_dry-1,,Vietnamese,70_dry,khô,khô,x oː ³³,,Duong2020,,,^khô $,default
 BanPhungLaChi-71_gomove-1,,BanPhungLaChi,71_gomove,βu53,βu53,β u ⁵³,,Duong2020,,,^β u 53$,default
 BanDiuLaChi-71_gomove-1,,BanDiuLaChi,71_gomove,păj323,păj323,p ă j ³²³,,Duong2020,,,^p ă j 323$,default
 NungDinLaChi-71_gomove-1,,NungDinLaChi,71_gomove,păj323,păj323,p ă j ³²³,,Duong2020,,,^p ă j 323$,default
-Vietnamese-71_gomove-1,,Vietnamese,71_gomove,đi,đi,đ/ð i,,Duong2020,,,^đ i$,default
+Vietnamese-71_gomove-1,,Vietnamese,71_gomove,đi,đi,ɗ i ³³,,Duong2020,,,^đi $,default
 BanPhungLaChi-72_come-1,,BanPhungLaChi,72_come,qo33,qo33,q o ³³,,Duong2020,,,^q o 33$,default
 BanDiuLaChi-72_come-1,,BanDiuLaChi,72_come,ma33,ma33,m a ³³,,Duong2020,,,^m a 33$,default
 NungDinLaChi-72_come-1,,NungDinLaChi,72_come,thăŋ323,thăŋ323,tʰ ă ŋ ³²³,,Duong2020,,,^th ă ŋ 323$,default
-Vietnamese-72_come-1,,Vietnamese,72_come,đến,đến,đ/ð ế/e n,,Duong2020,,,^đ ế n$,default
+Vietnamese-72_come-1,,Vietnamese,72_come,đến,đến,ɗ əː n ⁴⁵,,Duong2020,,,^đến $,default
 BanPhungLaChi-73_burn-1,,BanPhungLaChi,73_burn,pɛ33 pjɛ53,pɛ33_pjɛ53,p ɛ ³³ + p j ɛ ⁵³,,Duong2020,,,^p ɛ 33 _ p j ɛ 53$,default
 BanDiuLaChi-73_burn-1,,BanDiuLaChi,73_burn,o21,o21,o ²¹,,Duong2020,,,^o 21$,default
 NungDinLaChi-73_burn-1,,NungDinLaChi,73_burn,o21,o21,o ²¹,,Duong2020,,,^o 21$,default
-Vietnamese-73_burn-1,,Vietnamese,73_burn,cháy,cháy,cʰ áy/ai̯,,Duong2020,,,^ch áy $,default
+Vietnamese-73_burn-1,,Vietnamese,73_burn,cháy,cháy,c ai̯ ⁴⁵,,Duong2020,,,^cháy $,default
 BanPhungLaChi-74_fly-1,,BanPhungLaChi,74_fly,ni1  pɔ55ʔ,ni1__pɔ55ʔ,n i ¹ + p ɔ ⁵⁵ ʔ,,Duong2020,,,^n i 1 __ p ɔ 55 ʔ $,default
 BanDiuLaChi-74_fly-1,,BanDiuLaChi,74_fly,ʔɓăn323,ʔɓăn323,ʔ ɓ ă n ³²³,,Duong2020,,,^ʔ ɓ ă n 323$,default
 NungDinLaChi-74_fly-1,,NungDinLaChi,74_fly,Ɂɓăn323,Ɂɓăn323,ʔ ɓ ă n ³²³,,Duong2020,,,^Ɂ ɓ ă n 323$,default
-Vietnamese-74_fly-1,,Vietnamese,74_fly,bay,bay,b ay/ai̯,,Duong2020,,,^b ay $,default
+Vietnamese-74_fly-1,,Vietnamese,74_fly,bay,bay,ɓ ai̯ ³³,,Duong2020,,,^bay $,default
 BanPhungLaChi-75_stand-1,,BanPhungLaChi,75_stand,sɔ33,sɔ33,s ɔ ³³,,Duong2020,,,^s ɔ 33$,default
 BanDiuLaChi-75_stand-1,,BanDiuLaChi,75_stand,ʔin35,ʔin35,ʔ i n ³⁵,,Duong2020,,,^ʔ i n 35$,default
 NungDinLaChi-75_stand-1,,NungDinLaChi,75_stand,zin323,zin323,z i n ³²³,,Duong2020,,,^z i n 323$,default
-Vietnamese-75_stand-1,,Vietnamese,75_stand,đứng,đứng,đ/ð ứ/u ŋ,,Duong2020,,,^đ ứ ng $,default
+Vietnamese-75_stand-1,,Vietnamese,75_stand,đứng,đứng,ɗ ɨ ŋ ⁴⁵,,Duong2020,,,^đứng $,default
 BanPhungLaChi-76_swim-1,,BanPhungLaChi,76_swim,phu44 ʔi33,phu44_ʔi33,pʰ u ⁴⁴ + ʔ i ³³,,Duong2020,,,^ph u 44 _ ʔ i 33$,default
 BanDiuLaChi-76_swim-1,,BanDiuLaChi,76_swim,săw323 năm45,săw323_năm45,s ăw/ău̯ ³²³ + n ă m ⁴⁵,,Duong2020,,,^s ăw 323 _ n ă m 45$,default
 NungDinLaChi-76_swim-1,,NungDinLaChi,76_swim,săw323,săw323,s ăw/ău̯ ³²³,,Duong2020,,,^s ăw 323$,default
-Vietnamese-76_swim-1,,Vietnamese,76_swim,bơi,bơi,b ơ/o i,,Duong2020,,,^b ơ i$,default
+Vietnamese-76_swim-1,,Vietnamese,76_swim,bơi,bơi,ɓ əːi̯ ³³,,Duong2020,,,^bơi $,default
 BanPhungLaChi-77_kill-1,,BanPhungLaChi,77_kill,pi53,pi53,p i ⁵³,,Duong2020,,,^p i 53$,default
 BanDiuLaChi-77_kill-1,,BanDiuLaChi,77_kill,kha33,kha33,kʰ a ³³,,Duong2020,,,^kh a 33$,default
 NungDinLaChi-77_kill-1,,NungDinLaChi,77_kill,kha33,kha33,kʰ a ³³,,Duong2020,,,^kh a 33$,default
-Vietnamese-77_kill-1,,Vietnamese,77_kill,giết (gà),giết_,g i ế/e t,,Duong2020,,,^g i ế t _$,default
+Vietnamese-77_kill-1,,Vietnamese,77_kill,giết (gà),giết_,j iː k ⁴⁵,,Duong2020,,,^giết _$,default
 BanPhungLaChi-78_sit-1,,BanPhungLaChi,78_sit,ka55 ki11,ka55_ki11,k a ⁵⁵ + k i ¹¹,,Duong2020,,,^k a 55 _ k i 11$,default
 BanDiuLaChi-78_sit-1,,BanDiuLaChi,78_sit,năŋ31,năŋ31,n ă ŋ ³¹,,Duong2020,,,^n ă ŋ 31$,default
 NungDinLaChi-78_sit-1,,NungDinLaChi,78_sit,năŋ31,năŋ31,n ă ŋ ³¹,,Duong2020,,,^n ă ŋ 31$,default
-Vietnamese-78_sit-1,,Vietnamese,78_sit,ngồi,ngồi,n g ồ/o i,,Duong2020,,,^n g ồ i$,default
+Vietnamese-78_sit-1,,Vietnamese,78_sit,ngồi,ngồi,ŋ oːi̯ ²¹,,Duong2020,,,^ngồi $,default
 BanPhungLaChi-79_hear-1,,BanPhungLaChi,79_hear,ʑɔ55ʔ,ʑɔ55ʔ,ʑ ɔ ⁵⁵ ʔ,,Duong2020,,,^ʑ ɔ 55 ʔ $,default
 BanDiuLaChi-79_hear-1,,BanDiuLaChi,79_hear,pak45,pak45,p a k ⁴⁵,,Duong2020,,,^p a k 45$,default
 NungDinLaChi-79_hear-1,,NungDinLaChi,79_hear,pak45,pak45,p a k ⁴⁵,,Duong2020,,,^p a k 45$,default
-Vietnamese-79_hear-1,,Vietnamese,79_hear,nghe,nghe,n gh e,,Duong2020,,,^n gh e$,default
+Vietnamese-79_hear-1,,Vietnamese,79_hear,nghe,nghe,ŋ ɛː ³³,,Duong2020,,,^nghe $,default
 BanPhungLaChi-80_talk-1,,BanPhungLaChi,80_talk,th ɛ55ʔ,th_ɛ55ʔ,tʰ + ɛ ⁵⁵ ʔ,,Duong2020,,,^th _ ɛ 55 ʔ $,default
 BanDiuLaChi-80_talk-1,,BanDiuLaChi,80_talk,ha45,ha45,h a ⁴⁵,,Duong2020,,,^h a 45$,default
 NungDinLaChi-80_talk-1,,NungDinLaChi,80_talk,ha45,ha45,h a ⁴⁵,,Duong2020,,,^h a 45$,default
-Vietnamese-80_talk-1,,Vietnamese,80_talk,nói,nói,n ói/oi̯,,Duong2020,,,^n ói $,default
+Vietnamese-80_talk-1,,Vietnamese,80_talk,nói,nói,n ɔːi̯ ⁴⁵,,Duong2020,,,^nói $,default
 BanPhungLaChi-81_lookat-1,,BanPhungLaChi,81_lookat,le53,le53,l e ⁵³,,Duong2020,,,^l e 53$,default
 BanDiuLaChi-81_lookat-1,,BanDiuLaChi,81_lookat,ŋaŋ31,ŋaŋ31,ŋ a ŋ ³¹,,Duong2020,,,^ŋ a ŋ 31$,default
 NungDinLaChi-81_lookat-1,,NungDinLaChi,81_lookat,ŋaŋ31,ŋaŋ31,ŋ a ŋ ³¹,,Duong2020,,,^ŋ a ŋ 31$,default
-Vietnamese-81_lookat-1,,Vietnamese,81_lookat,nhìn,nhìn,nh/n̊ ì/i n,,Duong2020,,,^nh ì n$,default
+Vietnamese-81_lookat-1,,Vietnamese,81_lookat,nhìn,nhìn,ɲ ɨ n ²¹,,Duong2020,,,^nhìn $,default
 BanPhungLaChi-82_lie-1,,BanPhungLaChi,82_lie,βũ11,βũ11,β ũ ¹¹,,Duong2020,,,^β ũ 11$,default
 BanDiuLaChi-82_lie-1,,BanDiuLaChi,82_lie,năm21,năm21,n ă m ²¹,,Duong2020,,,^n ă m 21$,default
 NungDinLaChi-82_lie-1,,NungDinLaChi,82_lie,non33,non33,n o n ³³,,Duong2020,,,^n o n 33$,default
-Vietnamese-82_lie-1,,Vietnamese,82_lie,nằm,nằm,n ằ/a m,,Duong2020,,,^n ằ m$,default
+Vietnamese-82_lie-1,,Vietnamese,82_lie,nằm,nằm,n a m ²¹,,Duong2020,,,^nằm $,default
 BanPhungLaChi-83_sleep-1,,BanPhungLaChi,83_sleep,βɨ11,βɨ11,β ɨ ¹¹,,Duong2020,,,^β ɨ 11$,default
 BanDiuLaChi-83_sleep-1,,BanDiuLaChi,83_sleep,nɔn33,nɔn33,n ɔ n ³³,,Duong2020,,,^n ɔ n 33$,default
 NungDinLaChi-83_sleep-1,,NungDinLaChi,83_sleep,non33,non33,n o n ³³,,Duong2020,,,^n o n 33$,default
-Vietnamese-83_sleep-1,,Vietnamese,83_sleep,ngủ,ngủ,n g ủ/u,,Duong2020,,,^n g ủ$,default
+Vietnamese-83_sleep-1,,Vietnamese,83_sleep,ngủ,ngủ,ŋ u ²¹⁴,,Duong2020,,,^ngủ $,default
 BanPhungLaChi-84_know-1,,BanPhungLaChi,84_know,ɕo44/ su44,ɕo44,ɕ o ⁴⁴,,Duong2020,,,^ɕ o 44$,default
 BanPhungLaChi-84_know-2,,BanPhungLaChi,84_know,ɕo44/ su44,su44,s u ⁴⁴,,Duong2020,,,^s u 44$,default
 BanDiuLaChi-84_know-1,,BanDiuLaChi,84_know,lu45,lu45,l u ⁴⁵,,Duong2020,,,^l u 45$,default
 NungDinLaChi-84_know-1,,NungDinLaChi,84_know,ru33,ru33,r u ³³,,Duong2020,,,^r u 33$,default
-Vietnamese-84_know-1,,Vietnamese,84_know,biết,biết,b i ế/e t,,Duong2020,,,^b i ế t$,default
+Vietnamese-84_know-1,,Vietnamese,84_know,biết,biết,ɓ iː k ⁴⁵,,Duong2020,,,^biết $,default
 BanPhungLaChi-85_eat-1,,BanPhungLaChi,85_eat,pu33 mi11,pu33_mi11,p u ³³ + m i ¹¹,,Duong2020,,,^p u 33 _ m i 11$,default
 BanDiuLaChi-85_eat-1,,BanDiuLaChi,85_eat,cin23,cin23,c i n ²³,,Duong2020,,,^c i n 23$,default
 NungDinLaChi-85_eat-1,,NungDinLaChi,85_eat,cin323,cin323,c i n ³²³,,Duong2020,,,^c i n 323$,default
-Vietnamese-85_eat-1,,Vietnamese,85_eat,ăn,ăn,ă n,,Duong2020,,,^ă n$,default
+Vietnamese-85_eat-1,,Vietnamese,85_eat,ăn,ăn,ʔ a ŋ ³³,,Duong2020,,,^ăn $,default
 BanPhungLaChi-86_drink-1,,BanPhungLaChi,86_drink,ko44,ko44,k o ⁴⁴,,Duong2020,,,^k o 44$,default
 BanDiuLaChi-86_drink-1,,BanDiuLaChi,86_drink,cĭn323,cĭn323,c ĭ n ³²³,,Duong2020,,,^c ĭ n 323$,default
 NungDinLaChi-86_drink-1,,NungDinLaChi,86_drink,cĭn323 cĭn323,cĭn323_cĭn323,c ĭ n ³²³ + c ĭ n ³²³,,Duong2020,,,^c ĭ n 323 _ c ĭ n 323$,default
-Vietnamese-86_drink-1,,Vietnamese,86_drink,uống,uống,u ó/o ŋ,,Duong2020,,,^u ố ng $,default
+Vietnamese-86_drink-1,,Vietnamese,86_drink,uống,uống,ʔ uː ŋ ⁴⁵,,Duong2020,,,^uống $,default
 BanPhungLaChi-87_bite-1,,BanPhungLaChi,87_bite,tja33,tja33,t j a ³³,,Duong2020,,,^t j a 33$,default
 BanDiuLaChi-87_bite-1,,BanDiuLaChi,87_bite,khăp35,khăp35,kʰ ă p ³⁵,,Duong2020,,,^kh ă p 35$,default
 NungDinLaChi-87_bite-1,,NungDinLaChi,87_bite,khăp35,khăp35,kʰ ă p ³⁵,,Duong2020,,,^kh ă p 35$,default
-Vietnamese-87_bite-1,,Vietnamese,87_bite,cắn,cắn,c ắ/a n,,Duong2020,,,^c ắ n$,default
+Vietnamese-87_bite-1,,Vietnamese,87_bite,cắn,cắn,k a ŋ ⁴⁵,,Duong2020,,,^cắn $,default
 BanPhungLaChi-88_die-1,,BanPhungLaChi,88_die,pɛ̃53,pɛ̃53,p ɛ̃ ⁵³,,Duong2020,,,^p ɛ̃ 53$,default
 BanDiuLaChi-88_die-1,,BanDiuLaChi,88_die,thaj323,thaj323,tʰ a j ³²³,,Duong2020,,,^th a j 323$,default
 NungDinLaChi-88_die-1,,NungDinLaChi,88_die,thaj323,thaj323,tʰ a j ³²³,,Duong2020,,,^th a j 323$,default
-Vietnamese-88_die-1,,Vietnamese,88_die,chết,chết,cʰ ế/e t,,Duong2020,,,^ch ế t$,default
+Vietnamese-88_die-1,,Vietnamese,88_die,chết,chết,c əː t ⁴⁵,,Duong2020,,,^chết $,default
 BanPhungLaChi-89_give-1,,BanPhungLaChi,89_give,nɨ55ʔ,nɨ55ʔ,n ɨ ⁵⁵ ʔ,,Duong2020,,,^n ɨ 55 ʔ $,default
 BanDiuLaChi-89_give-1,,BanDiuLaChi,89_give,ha33 ʔɯ323,ha33_ʔɯ323,h a ³³ + ʔ ɯ ³²³,,Duong2020,,,^h a 33 _ ʔ ɯ 323$,default
 NungDinLaChi-89_give-1,,NungDinLaChi,89_give,hɤ̆ɯ21 / hăɯ21,hɤ̆ɯ21,h ɤ̆ɯ/ɤ̆ɯ̯ ²¹,,Duong2020,,,^h ɤ̆ɯ 21$,default
 NungDinLaChi-89_give-2,,NungDinLaChi,89_give,hɤ̆ɯ21 / hăɯ21,hăɯ21,h ă ɯ ²¹,,Duong2020,,,^h ă ɯ 21$,default
-Vietnamese-89_give-1,,Vietnamese,89_give,cho ,cho,cʰ o,,Duong2020,,,^ch o$,default
+Vietnamese-89_give-1,,Vietnamese,89_give,cho ,cho,c ɔː ³³,,Duong2020,,,^cho $,default
 BanPhungLaChi-90_one-1,,BanPhungLaChi,90_one,căm33/ ca  m̥,căm33,c ă m ³³,,Duong2020,,,^c ă m 33$,default
 BanPhungLaChi-90_one-2,,BanPhungLaChi,90_one,căm33/ ca  m̥,ca__m̥,c a + m̥,,Duong2020,,,^c a __ m̥$,default
 BanDiuLaChi-90_one-1,,BanDiuLaChi,90_one,Ɂɗew33,Ɂɗew33,ʔ ɗ e w ³³,,Duong2020,,,^Ɂ ɗ e w 33$,default
 NungDinLaChi-90_one-1,,NungDinLaChi,90_one,Ɂɗew33,Ɂɗew33,ʔ ɗ e w ³³,,Duong2020,,,^Ɂ ɗ e w 33$,default
-Vietnamese-90_one-1,,Vietnamese,90_one,một,một,m ộ/o t,,Duong2020,,,^m ộ t$,default
+Vietnamese-90_one-1,,Vietnamese,90_one,một,một,m o k ²¹²,,Duong2020,,,^một $,default
 BanPhungLaChi-91_two-1,,BanPhungLaChi,91_two,ɸu44,ɸu44,ɸ u ⁴⁴,,Duong2020,,,^ɸ u 44$,default
 BanDiuLaChi-91_two-1,,BanDiuLaChi,91_two,θõ35,θõ35,θ õ ³⁵,,Duong2020,,,^θ õ 35$,default
 NungDinLaChi-91_two-1,,NungDinLaChi,91_two,ɬoŋ33,ɬoŋ33,ɬ o ŋ ³³,,Duong2020,,,^ɬ o ŋ 33$,default
-Vietnamese-91_two-1,,Vietnamese,91_two,hai,hai,h a i,,Duong2020,,,^h a i$,default
-BanPhungLaChi-92_all-1,,BanPhungLaChi,92_all,to33 mjã33,to33_mjã33,t o ³³ + m j ã ³³,,Duong2020,,,^t o 33 _ m j ã 33$,default
+Vietnamese-91_two-1,,Vietnamese,91_two,hai,hai,h aːi̯ ³³,,Duong2020,,,^hai $,default
+BanPhungLaChi-92_all-1,,BanPhungLaChi,92_all,to33 mjã33,to33_mjã33,t ɔː ³³ ³³ + m j ã ³³,,Duong2020,,,^to 33 _ m j ã 33$,default
 BanDiuLaChi-92_all-1,,BanDiuLaChi,92_all,tɯŋ33 le43,tɯŋ33_le43,t ɯ ŋ ³³ + l e ⁴³,,Duong2020,,,^t ɯ ŋ 33 _ l e 43$,default
 NungDinLaChi-92_all-1,,NungDinLaChi,92_all,tɯŋ33 le43,tɯŋ33_le43,t ɯ ŋ ³³ + l e ⁴³,,Duong2020,,,^t ɯ ŋ 33 _ l e 43$,default
-Vietnamese-92_all-1,,Vietnamese,92_all,tất cả,tất_cả,t ấ/a t + c ả/a,,Duong2020,,,^t ấ t _ c ả$,default
+Vietnamese-92_all-1,,Vietnamese,92_all,tất cả,tất_cả,t ə k ⁴⁵ + k aː ²¹⁴,,Duong2020,,,^tất_cả $,default
 BanPhungLaChi-93_what-1,,BanPhungLaChi,93_what,kɛ44 ʔa44,kɛ44_ʔa44,k ɛ ⁴⁴ + ʔ a ⁴⁴,,Duong2020,,,^k ɛ 44 _ ʔ a 44$,default
 BanDiuLaChi-93_what-1,,BanDiuLaChi,93_what,kăŋ212,kăŋ212,k ă ŋ ²¹²,,Duong2020,,,^k ă ŋ 212$,default
 NungDinLaChi-93_what-1,,NungDinLaChi,93_what,ka31 răŋ33,ka31_răŋ33,k a ³¹ + r ă ŋ ³³,,Duong2020,,,^k a 31 _ r ă ŋ 33$,default
-Vietnamese-93_what-1,,Vietnamese,93_what,"gì, cái gì",gì,g ì/i,,Duong2020,,,^g ì $,default
-Vietnamese-93_what-2,,Vietnamese,93_what,"gì, cái gì",cái_gì,c á i + g ì/i,,Duong2020,,,^c á i _ g ì $,default
+Vietnamese-93_what-1,,Vietnamese,93_what,"gì, cái gì",gì,j i ²¹,,Duong2020,,,^gì $,default
+Vietnamese-93_what-2,,Vietnamese,93_what,"gì, cái gì",cái_gì,k aːi̯ ⁴⁵ + j i ²¹,,Duong2020,,,^cái_gì $,default
 BanPhungLaChi-94_who-1,,BanPhungLaChi,94_who,kɛ55 nɔ53 kɛ55 ʔa33,kɛ55_nɔ53_kɛ55_ʔa33,k ɛ ⁵⁵ + n ɔ ⁵³ + k ɛ ⁵⁵ + ʔ a ³³,,Duong2020,,,^k ɛ 55 _ n ɔ 53 _ k ɛ 55 _ ʔ a 33$,default
 BanDiuLaChi-94_who-1,,BanDiuLaChi,94_who,kɯŋ33,kɯŋ33,k ɯ ŋ ³³,,Duong2020,,,^k ɯ ŋ 33$,default
 NungDinLaChi-94_who-1,,NungDinLaChi,94_who,kɔn33/ răɯ33,kɔn33,k ɔ n ³³,,Duong2020,,,^k ɔ n 33$,default
 NungDinLaChi-94_who-2,,NungDinLaChi,94_who,kɔn33/ răɯ33,răɯ33,r ă ɯ ³³,,Duong2020,,,^r ă ɯ 33$,default
-Vietnamese-94_who-1,,Vietnamese,94_who,ai,ai,a i,,Duong2020,,,^a i$,default
+Vietnamese-94_who-1,,Vietnamese,94_who,ai,ai,ʔ aːi̯ ³³,,Duong2020,,,^ai $,default
 BanPhungLaChi-95_no-1,,BanPhungLaChi,95_no,ljo55ˀ,ljo55ˀ,l j o ˀ/⁵⁵,,Duong2020,,,^l j o 55ˀ$,default
 BanDiuLaChi-95_no-1,,BanDiuLaChi,95_no,Ɂɓo31,Ɂɓo31,ʔ ɓ o ³¹,,Duong2020,,,^Ɂ ɓ o 31$,default
 NungDinLaChi-95_no-1,,NungDinLaChi,95_no,Ɂɓo31,Ɂɓo31,ʔ ɓ o ³¹,,Duong2020,,,^Ɂ ɓ o 31$,default
-Vietnamese-95_no-1,,Vietnamese,95_no,không,không,kʰ ô/o ŋ,,Duong2020,,,^kh ô ng $,default
+Vietnamese-95_no-1,,Vietnamese,95_no,không,không,x ɔ ŋ ³³,,Duong2020,,,^không $,default
 BanPhungLaChi-96_here-1,,BanPhungLaChi,96_here,nɤ53,nɤ53,n ɤ ⁵³,,Duong2020,,,^n ɤ 53$,default
 BanDiuLaChi-96_here-1,,BanDiuLaChi,96_here,ne43,ne43,n e ⁴³,,Duong2020,,,^n e 43$,default
 NungDinLaChi-96_here-1,,NungDinLaChi,96_here,năj31,năj31,n ă j ³¹,,Duong2020,,,^n ă j 31$,default
-Vietnamese-96_here-1,,Vietnamese,96_here,này,này,n ày/ai̯,,Duong2020,,,^n ày $,default
+Vietnamese-96_here-1,,Vietnamese,96_here,này,này,n ai̯ ²¹,,Duong2020,,,^này $,default
 BanPhungLaChi-97_that-1,,BanPhungLaChi,97_that,kăj323,kăj323,k ă j ³²³,,Duong2020,,,^k ă j 323$,default
 BanDiuLaChi-97_that-1,,BanDiuLaChi,97_that,paj33,paj33,p a j ³³,,Duong2020,,,^p a j 33$,default
 NungDinLaChi-97_that-1,,NungDinLaChi,97_that,ɯ̆m45,ɯ̆m45,ɯ̆ m ⁴⁵,,Duong2020,,,^ɯ̆ m 45$,default
-Vietnamese-97_that-1,,Vietnamese,97_that,kia,kia,k i a,,Duong2020,,,^k i a$,default
+Vietnamese-97_that-1,,Vietnamese,97_that,kia,kia,k iə ³³,,Duong2020,,,^kia $,default
 BanPhungLaChi-98_i-1,,BanPhungLaChi,98_i,ʔa33 kh u44,ʔa33_kh_u44,ʔ a ³³ + kʰ + u ⁴⁴,,Duong2020,,,^ʔ a 33 _ kh _ u 44$,default
 BanDiuLaChi-98_i-1,,BanDiuLaChi,98_i,ku44,ku44,k u ⁴⁴,,Duong2020,,,^k u 44$,default
 NungDinLaChi-98_i-1,,NungDinLaChi,98_i,khɔj21,khɔj21,kʰ ɔ j ²¹,,Duong2020,,,^kh ɔ j 21$,default
-Vietnamese-98_i-1,,Vietnamese,98_i,tao/tôi,tao,t a o,,Duong2020,,,^t a o$,default
-Vietnamese-98_i-2,,Vietnamese,98_i,tao/tôi,tôi,t ô/o i,,Duong2020,,,^t ô i$,default
+Vietnamese-98_i-1,,Vietnamese,98_i,tao/tôi,tao,t aːu̯ ³³,,Duong2020,,,^tao $,default
+Vietnamese-98_i-2,,Vietnamese,98_i,tao/tôi,tôi,t oːi̯ ³³,,Duong2020,,,^tôi $,default
 BanPhungLaChi-99_you-1,,BanPhungLaChi,99_you,ʔa33  bɛ33,ʔa33__bɛ33,ʔ a ³³ + b ɛ ³³,,Duong2020,,,^ʔ a 33 __ b ɛ 33$,default
 BanDiuLaChi-99_you-1,,BanDiuLaChi,99_you,mɯ33,mɯ33,m ɯ ³³,,Duong2020,,,^m ɯ 33$,default
 NungDinLaChi-99_you-1,,NungDinLaChi,99_you,măɯ33,măɯ33,m ă ɯ ³³,,Duong2020,,,^m ă ɯ 33$,default
-Vietnamese-99_you-1,,Vietnamese,99_you,mày,mày,m ày/ai̯,,Duong2020,,,^m ày $,default
+Vietnamese-99_you-1,,Vietnamese,99_you,mày,mày,m ai̯ ²¹,,Duong2020,,,^mày $,default
 BanPhungLaChi-100_we-1,,BanPhungLaChi,100_we,ʔa33  tɛ33,ʔa33__tɛ33,ʔ a ³³ + t ɛ ³³,,Duong2020,,,^ʔ a 33 __ t ɛ 33$,default
 BanDiuLaChi-100_we-1,,BanDiuLaChi,100_we,lɤ̆w33,lɤ̆w33,l ɤ̆w/ɤ̆u̯ ³³,,Duong2020,,,^l ɤ̆w 33$,default
 NungDinLaChi-100_we-1,,NungDinLaChi,100_we,lɤ̆w33,lɤ̆w33,l ɤ̆w/ɤ̆u̯ ³³,,Duong2020,,,^l ɤ̆w 33$,default
-Vietnamese-100_we-1,,Vietnamese,100_we,chúng ta,chúng_ta,cʰ ú/u ŋ + t a,,Duong2020,,,^ch ú ng _ t a$,default
+Vietnamese-100_we-1,,Vietnamese,100_we,chúng ta,chúng_ta,c u ŋm ⁴⁵ + t aː ³³,,Duong2020,,,^chúng_ta $,default

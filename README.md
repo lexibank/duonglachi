@@ -11,14 +11,14 @@ Conceptlists in Concepticon:
 - [Duong-2020-100](https://concepticon.clld.org/contributions/Duong-2020-100)
 ## Notes
 
-
+The Vietnamese transcriptions in the orthography profile were done with the help of J. Kirby's [vPhon](https://github.com/kirbyj/vPhon/) and slightly adjusted to conform to the representation of SEA data in CLDF.
 
 
 
 ## Statistics
 
 
-![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
+![Glottolog: 50%](https://img.shields.io/badge/Glottolog-50%25-red.svg "Glottolog: 50%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
@@ -39,7 +39,7 @@ Conceptlists in Concepticon:
 Name               | GitHub user | Description               | Role
 ---                | ---         | ---                       | ---
 Johann-Mattis List | @LinguList  | maintainer                | Other
-Kristina Pianykh | | maintainer | Other
+Kristina Pianykh |@Kristina-Pianykh | maintainer | Other
 Duong, Thu Hang  | | original data collection | Author
 Nguyen, Thu Quynh | | original data collection | Author
 Nguyen, Van Loi | | original data collection | Author

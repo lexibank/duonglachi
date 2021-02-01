@@ -1,1 +1,1 @@
-
+The Vietnamese transcriptions in the orthography profile were done with the help of J. Kirby's [vPhon](https://github.com/kirbyj/vPhon/) and slightly adjusted to conform to the representation of SEA data in CLDF.
