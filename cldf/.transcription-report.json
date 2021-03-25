@@ -199,6 +199,9 @@
                 "\u014b": [
                     "\u014b"
                 ],
+                "\u014bm": [
+                    "\u014bm"
+                ],
                 "\u0251": [
                     "\u0251"
                 ],
@@ -593,6 +596,9 @@
                 "\u014b": [
                     "\u014b"
                 ],
+                "\u014bm": [
+                    "\u014bm"
+                ],
                 "\u0251": [
                     "\u0251"
                 ],
@@ -984,6 +990,9 @@
                 "\u014b": [
                     "\u014b"
                 ],
+                "\u014bm": [
+                    "\u014bm"
+                ],
                 "\u0251": [
                     "\u0251"
                 ],
@@ -1176,10 +1185,8 @@
             }
         },
         "Vietnamese": {
-            "bipa_errors": [
-                "\u014bm"
-            ],
-            "general_errors": 6,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -1376,6 +1383,9 @@
                 "\u014b": [
                     "\u014b"
                 ],
+                "\u014bm": [
+                    "\u014bm"
+                ],
                 "\u0251": [
                     "\u0251"
                 ],
@@ -1509,9 +1519,7 @@
                     "\u2075\u2075"
                 ]
             },
-            "sclass_errors": [
-                "\u014bm"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 9,
                 "a": 11,
@@ -1576,55 +1584,10 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "Vietnamese-100_we-1",
-                "Vietnamese",
-                "100_we",
-                "ch\u00fang_ta",
-                "c u <s> \u014bm </s> \u2074\u2075 + t a\u02d0 \u00b3\u00b3"
-            ],
-            [
-                "Vietnamese-25_claw-1",
-                "Vietnamese",
-                "25_claw",
-                "m\u00f3ng",
-                "m \u0254 <s> \u014bm </s> \u2074\u2075"
-            ],
-            [
-                "Vietnamese-27_leather-1",
-                "Vietnamese",
-                "27_leather",
-                "l\u00f4ng",
-                "l \u0254 <s> \u014bm </s> \u00b3\u00b3"
-            ],
-            [
-                "Vietnamese-43_stomach-1",
-                "Vietnamese",
-                "43_stomach",
-                "b\u1ee5ng",
-                "\u0253 u <s> \u014bm </s> \u00b2\u00b9\u00b2"
-            ],
-            [
-                "Vietnamese-53_man-1",
-                "Vietnamese",
-                "53_man",
-                "\u0111\u00e0n_\u00f4ng",
-                "\u0257 a\u02d0 \u014b \u00b2\u00b9 + \u0294 \u0254 <s> \u014bm </s> \u00b3\u00b3"
-            ],
-            [
-                "Vietnamese-67_hot-1",
-                "Vietnamese",
-                "67_hot",
-                "n\u00f3ng",
-                "n \u0254 <s> \u014bm </s> \u2074\u2075"
-            ]
-        ],
-        "bad_words_count": 6,
-        "bipa_errors": [
-            "\u014bm"
-        ],
-        "general_errors": 6,
+        "bad_words": [],
+        "bad_words_count": 0,
+        "bipa_errors": [],
+        "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
         "inventory_size": 56.5,
@@ -1824,6 +1787,9 @@
             "\u014b": [
                 "\u014b"
             ],
+            "\u014bm": [
+                "\u014bm"
+            ],
             "\u0251": [
                 "\u0251"
             ],
@@ -1957,9 +1923,7 @@
                 "\u2075\u2075"
             ]
         },
-        "sclass_errors": [
-            "\u014bm"
-        ],
+        "sclass_errors": [],
         "segments": {
             "+": 127,
             "a": 103,

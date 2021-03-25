@@ -58,7 +58,7 @@
 | f | 6 | ✓ | ✓ |
 | r | 6 | ✓ | ✓ |
 | z | 6 | ✓ | ✓ |
-| ŋm | 6 | ? | ? |
+| ŋm | 6 | ✓ | ✓ |
 | ʈ | 6 | ✓ | ✓ |
 | ai̯ | 5 | ✓ | ✓ |
 | aːi̯ | 5 | ✓ | ✓ |
@@ -132,14 +132,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:------------------------|:-----------|:-----------|:---------|:-------------------------------|
-| Vietnamese-100_we-1 | Vietnamese | 100_we | chúng_ta | c u <s> ŋm </s> ⁴⁵ + t aː ³³ |
-| Vietnamese-25_claw-1 | Vietnamese | 25_claw | móng | m ɔ <s> ŋm </s> ⁴⁵ |
-| Vietnamese-27_leather-1 | Vietnamese | 27_leather | lông | l ɔ <s> ŋm </s> ³³ |
-| Vietnamese-43_stomach-1 | Vietnamese | 43_stomach | bụng | ɓ u <s> ŋm </s> ²¹² |
-| Vietnamese-53_man-1 | Vietnamese | 53_man | đàn_ông | ɗ aː ŋ ²¹ + ʔ ɔ <s> ŋm </s> ³³ |
-| Vietnamese-67_hot-1 | Vietnamese | 67_hot | nóng | n ɔ <s> ŋm </s> ⁴⁵ |
+|------|------------|-----------|--------|------------|
 
-(6 rows)
+(0 rows)
 
 

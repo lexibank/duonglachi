@@ -21,8 +21,8 @@ The Vietnamese transcriptions in the orthography profile were done with the help
 ![Glottolog: 50%](https://img.shields.io/badge/Glottolog-50%25-red.svg "Glottolog: 50%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
-![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 4
 - **Concepts:** 100
@@ -31,7 +31,7 @@ The Vietnamese transcriptions in the orthography profile were done with the help
 - **Synonymy:** 1.03
 - **Invalid lexemes:** 0
 - **Tokens:** 2,017
-- **Segments:** 110 (1 BIPA errors, 1 CTLS sound class errors, 109 CLTS modified)
+- **Segments:** 110 (0 BIPA errors, 0 CTLS sound class errors, 110 CLTS modified)
 - **Inventory size (avg):** 56.50
 
 # Contributors
@@ -39,7 +39,7 @@ The Vietnamese transcriptions in the orthography profile were done with the help
 Name               | GitHub user | Description               | Role
 ---                | ---         | ---                       | ---
 Johann-Mattis List | @LinguList  | maintainer                | Other
-Kristina Pianykh |@Kristina-Pianykh | maintainer | Other
+Kristina Pianykh | @Kristina-Pianykh | maintainer | Other
 Duong, Thu Hang  | | original data collection | Author
 Nguyen, Thu Quynh | | original data collection | Author
 Nguyen, Van Loi | | original data collection | Author
