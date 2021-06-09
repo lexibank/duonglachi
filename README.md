@@ -1,8 +1,14 @@
 # CLDF dataset derived from Duong et al.'s "Language of the La Chí People" from 2020
 
-Cite the source dataset as
+## How to cite
 
-> Duong, Thu Hang and Nguyen, Thu Quynh and Nguyen, Van Loi (2021): The Language of the La Chí People in Bản Díu Commune, Xín Mần District, Hà Giang Province, Vietnam. In: Studies in the Anthropology of Language in Mainland Southeast Asia. Ed. by N. J. Enfield, Jack Sidnell, and Charles H. P. Zuckermann. University of Hawaii Press: Honolulu. 124-138
+If you use these data please cite
+- the original source
+  > Duong, Thu Hang and Nguyen, Thu Quynh and Nguyen, Van Loi (2021): The Language of the La Chí People in Bản Díu Commune, Xín Mần District, Hà Giang Province, Vietnam. In: Studies in the Anthropology of Language in Mainland Southeast Asia. Ed. by N. J. Enfield, Jack Sidnell, and Charles H. P. Zuckermann. University of Hawaii Press: Honolulu. 124-138
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -45,3 +51,10 @@ Nguyen, Thu Quynh | | original data collection | Author
 Nguyen, Van Loi | | original data collection | Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
