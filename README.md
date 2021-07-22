@@ -1,5 +1,7 @@
 # CLDF dataset derived from Duong et al.'s "Language of the La Chí People" from 2020
 
+[![CLDF validation](https://github.com/lexibank/duonglachi/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/duonglachi/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -24,6 +26,7 @@ The Vietnamese transcriptions in the orthography profile were done with the help
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/duonglachi/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/duonglachi/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 50%](https://img.shields.io/badge/Glottolog-50%25-red.svg "Glottolog: 50%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
