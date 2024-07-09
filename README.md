@@ -14,6 +14,8 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
+Available online at http://hdl.handle.net/10524/52466
+
 
 Conceptlists in Concepticon:
 - [Duong-2020-100](https://concepticon.clld.org/contributions/Duong-2020-100)
@@ -27,27 +29,27 @@ The Vietnamese transcriptions in the orthography profile were done with the help
 
 
 [![CLDF validation](https://github.com/lexibank/duonglachi/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/duonglachi/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 50%](https://img.shields.io/badge/Glottolog-50%25-red.svg "Glottolog: 50%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 4
-- **Concepts:** 100
+- **Varieties:** 4 (linked to 3 different Glottocodes)
+- **Concepts:** 100 (linked to 100 different Concepticon concept sets)
 - **Lexemes:** 412
 - **Sources:** 1
 - **Synonymy:** 1.03
 - **Invalid lexemes:** 0
 - **Tokens:** 2,017
-- **Segments:** 110 (0 BIPA errors, 0 CTLS sound class errors, 110 CLTS modified)
+- **Segments:** 110 (0 BIPA errors, 0 CLTS sound class errors, 110 CLTS modified)
 - **Inventory size (avg):** 56.50
 
 # Contributors
 
 Name               | GitHub user | Description               | Role
 ---                | ---         | ---                       | ---
-Johann-Mattis List | @LinguList  | maintainer                | Other
+Johann-Mattis List | @LinguList  | maintainer                | Editor
 Kristina Pianykh | @Kristina-Pianykh | maintainer | Other
 Duong, Thu Hang  | | original data collection | Author
 Nguyen, Thu Quynh | | original data collection | Author

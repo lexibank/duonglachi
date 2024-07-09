@@ -2,7 +2,7 @@
 
 Name               | GitHub user | Description               | Role
 ---                | ---         | ---                       | ---
-Johann-Mattis List | @LinguList  | maintainer                | Other
+Johann-Mattis List | @LinguList  | maintainer                | Editor
 Kristina Pianykh | @Kristina-Pianykh | maintainer | Other
 Duong, Thu Hang  | | original data collection | Author
 Nguyen, Thu Quynh | | original data collection | Author
