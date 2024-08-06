@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/duonglachi",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0",
+            "dc:created": "v1.0-1-g8d17737",
             "dc:title": "Repository"
         },
         {
