@@ -1,5 +1,5 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-BanPhungLaChi,La Chí Bản Phùng,lach1248,Lachi,lbt,Southeast Asia,22.8549,104.776,Tai-Kadai
-BanDiuLaChi,La Chí Bản Díu,lach1248,Lachi,lbt,Southeast Asia,22.85,104.78,Tai-Kadai
-NungDinLaChi,Nùng Dín,nung1283,Nung (Viet Nam),nut,Southeast Asia,20.8965,104.286,Tai-Kadai
-Vietnamese,Vietnamese,viet1252,Vietnamese,vie,Southeast Asia,20.68,105.77,Austroasiatic
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Region
+BanPhungLaChi,La Chí Bản Phùng,lach1248,Lachi,lbt,Eurasia,22.8549,104.776,Tai-Kadai,Southeast Asia
+BanDiuLaChi,La Chí Bản Díu,lach1248,Lachi,lbt,Eurasia,22.85,104.78,Tai-Kadai,Southeast Asia
+NungDinLaChi,Nùng Dín,nung1283,Nung (Viet Nam),nut,Eurasia,20.8965,104.286,Tai-Kadai,Southeast Asia
+Vietnamese,Vietnamese,viet1252,Vietnamese,vie,Eurasia,20.68,105.77,Austroasiatic,Southeast Asia
